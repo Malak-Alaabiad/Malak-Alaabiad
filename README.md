@@ -34,12 +34,14 @@
 
 <br>   
 
-- **Artificial Intelligence **:
+- ## Artificial Intelligence and Data Science
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![React](https://img.shields.io/badge/React%20-%231572B6.svg?style=for-the-badge&logo=react&logoColor=black)
+![Data Handling and Preprocessing](https://img.shields.io/badge/Data%20Handling%20and%20Preprocessing-%2300C853.svg?style=for-the-badge)
+![Machine Learning Algorithms](https://img.shields.io/badge/Machine%20Learning%20Algorithms-%233DDC84.svg?style=for-the-badge)
+![Deep Learning (Artificial Neural Networks)](https://img.shields.io/badge/Deep%20Learning%20(Artificial%20Neural%20Networks)-%23FF6F00.svg?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23007ACC.svg?style=for-the-badge)
+![Natural Language Processing (NLP)](https://img.shields.io/badge/Natural%20Language%20Processing%20(NLP)-%239966FF.svg?style=for-the-badge)
+
 
 <br>
 
