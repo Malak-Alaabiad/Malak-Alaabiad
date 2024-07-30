@@ -27,14 +27,14 @@
 
 <p align="center">
 
-- **Languages**:
+- ## Languages:
 
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
 
-- ## Artificial Intelligence and Data Science
+- ## Artificial Intelligence and Data Science:
 
 ![Data Handling and Preprocessing](https://img.shields.io/badge/Data%20Handling%20and%20Preprocessing-%2300C853.svg?style=for-the-badge)
 ![Machine Learning Algorithms](https://img.shields.io/badge/Machine%20Learning%20Algorithms-%233DDC84.svg?style=for-the-badge)
