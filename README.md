@@ -87,10 +87,9 @@
 </a>
 </li>
 
-<br>
 <li>
 <a href="https://github.com/Malak-Alaabiad" target="_blank">
-<img src="https://img.shields.io/badge/GitHub: Malak AlAabiad-%2300acee.svg?color=405DE6&style=for-the-badge&logo=github&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/GitHub: Malak AlAabiad-%2300acee.svg?color=100000&style=for-the-badge&logo=github&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
