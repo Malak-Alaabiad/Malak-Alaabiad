@@ -19,7 +19,7 @@
 
 - A second year student at Faculty of Computers and Artificial Intelligence - Cairo University ( FCAI-CU ).
 - Software Engineer.
-- Personal website [link](https://malak-alaabiad.github.io/MY-PORTFOLIO/)
+- Personal website [link](https://malak-alaabiad.github.io/MY-PORTFOLIO/).
 
 <br><br>
 
