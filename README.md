@@ -88,7 +88,11 @@
 </li>
 
 <br>
-<a href="https://github.com/marwaashraf1812" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<li>
+<a href="https://github.com/Malak-Alaabiad" target="_blank">
+<img src="https://img.shields.io/badge/GitHub: Malak AlAabiad-%2300acee.svg?color=405DE6&style=for-the-badge&logo=github&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
 
 <li>
 <a href="mailto:malakkalaabiadd@gmail.com" target="_blank">
