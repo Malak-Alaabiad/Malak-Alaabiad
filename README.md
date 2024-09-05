@@ -44,7 +44,7 @@
 ![Deep Learning (Artificial Neural Networks)](https://img.shields.io/badge/Deep%20Learning%20(Artificial%20Neural%20Networks)-%23FF6F00.svg?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23007ACC.svg?style=for-the-badge)
 ![Natural Language Processing (NLP)](https://img.shields.io/badge/Natural%20Language%20Processing%20(NLP)-%239966FF.svg?style=for-the-badge)
-
+<div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
@@ -53,7 +53,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
-
+</div>
 
 <br>
 
