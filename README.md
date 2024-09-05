@@ -14,17 +14,18 @@
 
 
 
-## <picture><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px></picture> **About me**
-
+## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> <b> About Me.. </b>
 
 
 <br>
 
 - :school: `A second year student` at Faculty of Computers and Artificial Intelligence - Cairo University ( FCAI-CU ).
-- Software Engineer.
-- AI Engineer.
+- 🔭 Software Engineer.
+- 🌱 AI Engineer.
+- 📫 How to reach me **malakkalaabiadd@gmail.com**
 - Personal website [link](https://malak-alaabiad.github.io/MY-PORTFOLIO/).
-- I possess a foundation in Artificial Intelligence and Data Science. My technical skills include
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/15nATOrHb4-DoXNiJ-xhJ4Q5y4j_kveZz/view?usp=sharing).
+- :nerd_face: I possess a foundation in Artificial Intelligence and Data Science. My technical skills include
 proficiency in several programming languages Python, C++ and C#, as well as familiarity
 with key AI and Data Science frameworks. Skilled in computer vision techniques and natural
 language processing (NLP). My involvement in the Student Union has honed my leadership,
