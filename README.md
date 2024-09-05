@@ -51,10 +51,13 @@ and methodologies, driven by a passion for using technology to create innovative
 - ## 🛠 Artificial Intelligence and Data Science:
 
 ![Data Handling and Preprocessing](https://img.shields.io/badge/Data%20Handling%20and%20Preprocessing-%2300C853.svg?style=for-the-badge)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Machine Learning Algorithms](https://img.shields.io/badge/Machine%20Learning%20Algorithms-%233DDC84.svg?style=for-the-badge)
 ![Deep Learning (Artificial Neural Networks)](https://img.shields.io/badge/Deep%20Learning%20(Artificial%20Neural%20Networks)-%23FF6F00.svg?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23007ACC.svg?style=for-the-badge)
 ![Natural Language Processing (NLP)](https://img.shields.io/badge/Natural%20Language%20Processing%20(NLP)-%239966FF.svg?style=for-the-badge)
+[![Kaggle](https://img.shields.io/badge/Kaggle:Malak Al-Aabiad-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/malakalaabiad)
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
@@ -66,7 +69,7 @@ and methodologies, driven by a passion for using technology to create innovative
   <img width="12" />
 
 
-- ## 🛠 Used Comilers and IDE...
+- ## 🛠 Used Comilers and IDE:
 <div align='left'>
 
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
