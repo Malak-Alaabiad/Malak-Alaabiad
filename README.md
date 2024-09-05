@@ -140,7 +140,7 @@ and methodologies, driven by a passion for using technology to create innovative
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
 </picture>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Malak-Alaabiad&label=Profile%20views&color=0e75b6&style=flat" alt="Malak-Alaabiad" />
-  <img src="https://img.shields.io/github/followers/manarshahin48?label=Followers" alt="manarshahin48" />
+  <img src="https://img.shields.io/github/followers/Malak-Alaabiad?label=Followers" alt="Malak-Alaabiad" />
 </p>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 <h4 align="center">
