@@ -57,7 +57,7 @@ and methodologies, driven by a passion for using technology to create innovative
 ![Deep Learning (Artificial Neural Networks)](https://img.shields.io/badge/Deep%20Learning%20(Artificial%20Neural%20Networks)-%23FF6F00.svg?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23007ACC.svg?style=for-the-badge)
 ![Natural Language Processing (NLP)](https://img.shields.io/badge/Natural%20Language%20Processing%20(NLP)-%239966FF.svg?style=for-the-badge)
-[![Kaggle](https://img.shields.io/badge/Kaggle:Malak Al-Aabiad-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/malakalaabiad)
+[![Kaggle](https://img.shields.io/badge/Kaggle:malakalaabiad-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/malakalaabiad)
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
