@@ -110,7 +110,9 @@ and methodologies, driven by a passion for using technology to create innovative
 </li>
 
 <li>
-<a href="https://www.facebook.com/Malak.AlAabiad?mibextid=ZbWKwL" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/Malak.AlAabiad?mibextid=ZbWKwL" target="_blank">
+<img src="https://img.shields.io/badge/Facebook:  Malak AlAabiad-%2300acee.svg?color231877F2&style=for-the-badge&logo=Facebook&logoColor=white" alt=Facebook style="margin-bottom: 5px;"/>
+</a>
 </a>
 </li>
 
