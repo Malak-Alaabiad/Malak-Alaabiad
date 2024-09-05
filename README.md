@@ -41,14 +41,14 @@ and methodologies, driven by a passion for using technology to create innovative
 
 <p align="center">
 
-- ## Programming Languages:
+- ## 🛠 Programming Languages:
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=cpp,python"  alt=""/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
 </p>
 
-- ## Artificial Intelligence and Data Science:
+- ## 🛠 Artificial Intelligence and Data Science:
 
 ![Data Handling and Preprocessing](https://img.shields.io/badge/Data%20Handling%20and%20Preprocessing-%2300C853.svg?style=for-the-badge)
 ![Machine Learning Algorithms](https://img.shields.io/badge/Machine%20Learning%20Algorithms-%233DDC84.svg?style=for-the-badge)
@@ -96,7 +96,7 @@ and methodologies, driven by a passion for using technology to create innovative
 
 <br>
 <br>
-
+## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="25"><b> My Social Media...</b>
 ## <b> 📩  Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
@@ -130,6 +130,15 @@ and methodologies, driven by a passion for using technology to create innovative
 
 </ul>
 </div>
+
+</div>
+
+<div align="center">
+   <img src="./pacman.gif" width=100%>
+</div>
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Tech Stack</b>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
