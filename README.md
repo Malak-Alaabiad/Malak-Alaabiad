@@ -160,4 +160,5 @@ and methodologies, driven by a passion for using technology to create innovative
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 <h4 align="center">
   <a href="https://github.com/Malak-Alaabiad?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
 </h4>
