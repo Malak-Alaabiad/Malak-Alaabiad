@@ -21,6 +21,14 @@
 - Software Engineer.
 - AI Engineer.
 - Personal website [link](https://malak-alaabiad.github.io/MY-PORTFOLIO/).
+- <p align="left">I possess a foundation in Artificial Intelligence and Data Science. My technical skills include
+proficiency in several programming languages Python, C++ and C#, as well as familiarity
+with key AI and Data Science frameworks. Skilled in computer vision techniques and natural
+language processing (NLP). My involvement in the Student Union has honed my leadership,
+teamwork, and communication abilities, making me adept at both collaborative and
+individual projects. I am continually expanding my skill set by learning new technologies
+and methodologies, driven by a passion for using technology to create innovative solutions.</p>
+
 
 <br><br>
 
