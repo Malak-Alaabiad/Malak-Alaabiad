@@ -41,12 +41,9 @@ and methodologies, driven by a passion for using technology to create innovative
 - ## Programming Languages:
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,python"  alt=""/><br>
-<br>
+<img src="https://skillicons.dev/icons?i=cpp,python"  alt=""/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
 </p>
-<img src="https://skillicons.dev/icons?i=cpp,python"  alt=""/><br>
-<br>
 
 - ## Artificial Intelligence and Data Science:
 
@@ -69,13 +66,6 @@ and methodologies, driven by a passion for using technology to create innovative
 <br>
 
 </p>
-
-<br>
-
-<br/>    
-    <img src="https://skillicons.dev/icons?i=jupyter,numpy,pandas,python" alt="" />
-    <br/>
-
 
 <br>
 
