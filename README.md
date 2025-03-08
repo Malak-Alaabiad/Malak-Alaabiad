@@ -9,6 +9,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;A+Computer+Science+Student+at+FCAI-CU"></a>
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Malak-Alaabiad&label=Profile%20views&color=0e75b6&style=flat" alt="Malak-Alaabiad" />
+  <img src="https://img.shields.io/github/followers/Malak-Alaabiad?label=Followers" alt="Malak-Alaabiad" />
+</p>
+
 <p align="center">
     <img src="AI.jpg" width="800">
 </p>
@@ -177,9 +181,6 @@
 <br>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Malak-Alaabiad&label=Profile%20views&color=0e75b6&style=flat" alt="Malak-Alaabiad" />
-  <img src="https://img.shields.io/github/followers/Malak-Alaabiad?label=Followers" alt="Malak-Alaabiad" />
-</p>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 <h4 align="center">
   <a href="https://github.com/Malak-Alaabiad?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
