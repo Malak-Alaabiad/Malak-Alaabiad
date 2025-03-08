@@ -177,7 +177,7 @@
 
 <li>
 <a href="https://www.kaggle.com/malakalaabiad" target="_blank">
-<img src="https://img.shields.io/badge/kaggle:  Malak Al-Aabiad-%2300acee.svg?color231877F2&style=for-the-badge&logo=kaggle&logoColor=%2300acee" t=kaggle style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/kaggle:  Malak Al-Aabiad-%2300acee.svg?color231877F2&style=for-the-badge&logo=kaggle&logoColor=%2300acee" alt=kaggle style="margin-bottom: 5px;" />
 </a>
 </li>
 
