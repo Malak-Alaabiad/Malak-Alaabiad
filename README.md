@@ -18,7 +18,8 @@
 - 🎓 `Second-year student` at the **Faculty of Computers and Artificial Intelligence - Cairo University (FCAI-CU)**.  
 - 💻 **Software Engineer** | 🤖 **AI Engineer**  
 - 🏆 **AI Challenge Winner** at AI Catalyst 24, Nile University.  
-- 👨‍🏫 **AI & Machine Learning Instructor** at MSP Tech Club, Helwan University.  
+- 👨‍🏫 **AI & Machine Learning Instructor** at MSP Tech Club, Helwan University.
+- 🏆 Aspiring **competitive programmer**, working towards **ICPC-level proficiency**  
 - 🎨 Passionate about **Machine Learning, Deep Learning, Computer Vision and NLP**.  
 - 📫 Reach me at **malakkalaabiadd@gmail.com**  
 - 🌐 **Portfolio:** [My Website](https://malak-alaabiad.github.io/MY-PORTFOLIO/)  
