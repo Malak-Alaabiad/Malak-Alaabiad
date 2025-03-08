@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <img src="AI3.jpg" width="800">
+    <img src="AI.jpg" width="800">
 </p>
 
 
