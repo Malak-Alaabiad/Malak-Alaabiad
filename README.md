@@ -169,9 +169,6 @@
 </li>
 
 </ul>
-</div>
-  <img src="./pacman.gif" width=100%>
-</div>
 
 
 <br>
