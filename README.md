@@ -171,13 +171,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
-</p>
-<div align="center">
-    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=holic-x&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
-</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Malak-Alaabiad&label=Profile%20views&color=0e75b6&style=flat" alt="Malak-Alaabiad" />
   <img src="https://img.shields.io/github/followers/Malak-Alaabiad?label=Followers" alt="Malak-Alaabiad" />
