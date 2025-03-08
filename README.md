@@ -58,7 +58,7 @@
 
 <p align="center">
 
-- ## 🛠 Programming Languages:
+- ## 💻 Programming Languages:
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=cpp,python"  alt=""/>
