@@ -19,20 +19,44 @@
 
 <br>
 
-- :school: `A second year student` at Faculty of Computers and Artificial Intelligence - Cairo University ( FCAI-CU ).
-- 🔭 Software Engineer.
-- 🌱 AI Engineer.
-- 📫 How to reach me **malakkalaabiadd@gmail.com**
-- Personal website [link](https://malak-alaabiad.github.io/MY-PORTFOLIO/).
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/15nATOrHb4-DoXNiJ-xhJ4Q5y4j_kveZz/view?usp=sharing).
-- :nerd_face: I possess a foundation in Artificial Intelligence and Data Science. My technical skills include
-proficiency in several programming languages Python, C++ and C#, as well as familiarity
-with key AI and Data Science frameworks. Skilled in computer vision techniques and natural
-language processing (NLP). My involvement in the Student Union has honed my leadership,
-teamwork, and communication abilities, making me adept at both collaborative and
-individual projects. I am continually expanding my skill set by learning new technologies
-and methodologies, driven by a passion for using technology to create innovative solutions.</p>
+# 👋 Hey there! I'm Malak Alabiad  
 
+## 🚀 About Me  
+- 🎓 `Second-year student` at the **Faculty of Computers and Artificial Intelligence - Cairo University (FCAI-CU)**.  
+- 💻 **Software Engineer** | 🤖 **AI Engineer**  
+- 🏆 **AI Challenge Winner** at AI Catalyst 24, Nile University.  
+- 👨‍🏫 **AI & Machine Learning Instructor** at MSP Tech Club, Helwan University.  
+- 🎨 Passionate about **Machine Learning, Deep Learning, Computer Vision and NLP**.  
+- 📫 Reach me at **malakkalaabiadd@gmail.com**  
+- 🌐 **Portfolio:** [My Website](https://malak-alaabiad.github.io/MY-PORTFOLIO/)  
+- 💼 Open to **job opportunities** → [My Resume](https://drive.google.com/file/d/15nATOrHb4-DoXNiJ-xhJ4Q5y4j_kveZz/view?usp=sharing)  
+
+## 🛠️ Tech Stack & Skills  
+- **Programming Languages:** Python, C++, C#  
+- **AI & Data Science:** Machine Learning, Deep Learning, Computer Vision, NLP  
+- **Frameworks & Tools:** TensorFlow, PyTorch, OpenCV, YOLO
+- **Version Control & Cloud:** Git, GitHub, Roboflow  
+- **Soft Skills:** Leadership, Teamwork, Communication
+
+## 📌 Notable Projects  
+### 🔹 **Road Damage Detection using YOLOv8** (🏆 AI Challenge Winner)  
+- Developed an AI model for detecting road damage in Egypt using **YOLOv8**.  
+- Implemented **transfer learning** to improve detection accuracy.  
+- Explored **business applications** for real-world deployment.  
+
+### 🔹 **Editopia - AI-Powered Photo Editor**  
+- Developed a photo editing application with **multiple AI-powered filters**.  
+- Implemented features like **Grayscale, Black & White, PopArt, Oil Painting, Edge Detection**, and more.   
+
+## ✨ Achievements & Certifications  
+- 🏆 **1st Place Winner** at AI Catalyst 24 (AI Challenge)  
+- 📜 **Artificial Intelligence & Data Science Course** - DotPy Academy  
+- 🎤 Speaker at AI & tech event
+
+## 🔍 Let's Connect!  
+- **Kaggle:** [Malak Alabiad](https://www.kaggle.com/malakalaabiad)  
+- **LinkedIn:** [Malak Alabiad](https://www.linkedin.com/in/malak-alabiad/)  
+- **GitHub:** [Malak-Alaabiad](https://github.com/Malak-Alaabiad)  
 
 <br><br>
 
