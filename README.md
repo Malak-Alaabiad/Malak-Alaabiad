@@ -15,11 +15,6 @@
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> <b> About Me.. </b>
-
-
-<br>
-
-## 🚀 About Me  
 - 🎓 `Second-year student` at the **Faculty of Computers and Artificial Intelligence - Cairo University (FCAI-CU)**.  
 - 💻 **Software Engineer** | 🤖 **AI Engineer**  
 - 🏆 **AI Challenge Winner** at AI Catalyst 24, Nile University.  
