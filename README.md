@@ -28,8 +28,8 @@
 - 🏆 Aspiring **competitive programmer**, working towards **ICPC-level proficiency**  
 - 🎨 Passionate about **Machine Learning, Deep Learning, Computer Vision and NLP**.  
 - 📫 Reach me at **malakkalaabiadd@gmail.com**  
-- 🌐 **Portfolio:** [My Website](https://malak-alaabiad.github.io/MY-PORTFOLIO/)  
-- 💼 Open to **job opportunities** → [My Resume](https://drive.google.com/file/d/15nATOrHb4-DoXNiJ-xhJ4Q5y4j_kveZz/view?usp=sharing)  
+- 🌐 **Portfolio:** [My Website](https://malak-alaabiad.github.io/My_Portfolio/)  
+- 💼 Open to **job opportunities** → [My Resume](https://drive.google.com/file/d/1fg4HKUD3Qt1WjRzZDt4ra7ipcPhDdIpy/view?usp=drive_link)  
 
 ## 🛠️ Tech Stack & Skills  
 - **Programming Languages:** Python, C++, C#  
@@ -56,7 +56,7 @@
 ## 🔍 Let's Connect!  
 - **Kaggle:** [Malak Alabiad](https://www.kaggle.com/malakalaabiad)  
 - **LinkedIn:** [Malak Alabiad](https://www.linkedin.com/in/malak-alabiad/)  
-- **GitHub:** [Malak-Alaabiad](https://github.com/Malak-Alaabiad)  
+- **GitHub:** [Malak-Alaabiad](https://github.com/Malak-Alaabiad)
 
 <br><br>
 
