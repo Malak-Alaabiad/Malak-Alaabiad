@@ -19,8 +19,6 @@
 
 <br>
 
-# 👋 Hey there! I'm Malak Alabiad  
-
 ## 🚀 About Me  
 - 🎓 `Second-year student` at the **Faculty of Computers and Artificial Intelligence - Cairo University (FCAI-CU)**.  
 - 💻 **Software Engineer** | 🤖 **AI Engineer**  
