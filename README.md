@@ -1,6 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Malak's+Github+%E2%9C%A8" alt="Typing SVG" /></a>
-
+<h1 align="center">
+    <"https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Malak's+Github+%E2%9C%A8" alt="Typing SVG" /></a>
+</h1>
+        
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Malak+Al-Aabiad!;" />
 </h1>
@@ -175,7 +177,7 @@
 
 <li>
 <a href="https://www.kaggle.com/malakalaabiad" target="_blank">
-<img src="https://img.shields.io/badge/kaggle:  Malak Al-Aabiad-%2300acee.svg?style=for-the-badge&logo=kaggle&logoColor=white" t=kaggle style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/kaggle:  Malak Al-Aabiad-%2300acee.svg?style=for-the-badge&logo=kaggle&logoColor=%2300acee" t=kaggle style="margin-bottom: 5px;" />
 </a>
 </li>
 
