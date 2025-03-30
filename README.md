@@ -243,10 +243,6 @@ My passion lies in technology, particularly in the fields of data science and AI
 - AI Ethics Course
 - Intro to Programming Course
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
-</div>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"> GitHub Stats
 
 <div align="center">
@@ -257,9 +253,6 @@ My passion lies in technology, particularly in the fields of data science and AI
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malak-Alaabiad&layout=compact&theme=tokyonight" alt="Malak's top languages" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
-</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="30"> Community Initiatives
 
@@ -281,9 +274,6 @@ My passion lies in technology, particularly in the fields of data science and AI
 - Sharing insights and fostering community engagement
 - Reached Expert on Kaggle (Top 2,000 worldwide out of 50,000+)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
-</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216121942-c05b52fb-983e-4ee8-8811-6f30cd6ea5eb.png" width="30"> Connect With Me
 
@@ -308,9 +298,7 @@ My passion lies in technology, particularly in the fields of data science and AI
   </a>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
