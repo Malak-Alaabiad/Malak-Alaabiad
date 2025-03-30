@@ -29,8 +29,8 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> <b>Second-year student</b> at the <b>Faculty of Computers and Artificial Intelligence - Cairo University (FCAI-CU)</b>.<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> <b>Software Engineer</b> 
-  🤖<b>AI Engineer</b><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> <b>Software Engineer</b><br>
+  🤖 <b>AI Engineer</b><br>
   🏆 <b>AI Challenge Winner</b> at AI Catalyst 24, Nile University.<br>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Teacher.png" alt="Teacher" width="25" height="25" /> <b>AI & Machine Learning Instructor</b> at MSP Tech Club, Helwan University.<br>
   🏆 Aspiring <b>competitive programmer</b>, working towards <b>ICPC-level proficiency</b><br>
