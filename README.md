@@ -7,7 +7,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=A020F0&&weight=500&size=60&pause=2000&center=true&vCenter=true&random=false&width=1200&height=80&lines=%E2%9C%A8+Malak's+Github+%E2%9C%A8" alt="Typing SVG" /></a>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=A020F0&size=30&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;A+Computer+Science+Student+at+FCAI-CU"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=A020F0&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;A+Computer+Science+Student+at+FCAI-CU"></a>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 
 <div align="center">
-  <img src="AI.jpg" width="400" alt="Cute robot drinking coffee">
+  <img src="AI.jpg" width="400">
 </div>
 
 <div align="center">
