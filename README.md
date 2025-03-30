@@ -29,10 +29,6 @@ I possess a strong foundation in Artificial Intelligence and Data Science with t
 
 My passion lies in technology, particularly in the fields of data science and AI. Exploring the intricacies of these disciplines fuels my curiosity and inspires me to contribute to the advancements shaping our digital landscape.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
-</div>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" width="30"> My Journey So Far
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="300">
