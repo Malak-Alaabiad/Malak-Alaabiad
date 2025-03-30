@@ -102,10 +102,6 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Projects
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="300" alt="Cute robot drinking">
-</div>
-
-<div align="center">
   <table>
     <tr>
       <td width="50%">
@@ -234,7 +230,8 @@
 <div align="center">
   <a href="https://github.com/Malak-Alaabiad">
     <img src="https://github-readme-stats.vercel.app/api?username=Malak-Alaabiad&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=A020F0&icon_color=A020F0&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-    
+
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Malak-Alaabiad&show_icons=true&locale=en&layout=compact&line_height=20&title_color=A020F0&icon_color=A020F0&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="Malak-Alaabiad"/>
   </a>
 </div>
