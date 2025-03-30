@@ -1,107 +1,103 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <h1>✨ Malak Al-Aabiad ✨</h1>
+  <h3>AI Engineer | Data Scientist | Software Developer</h3>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;Welcome+to+my+Profile!;I'm+Malak+Alabiad!" />
-</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A177FE&center=true&vCenter=true&random=false&width=600&height=70&lines=AI+Engineer;Machine+Learning+Enthusiast;Deep+Learning+Practitioner;Computer+Vision+Specialist;NLP+Explorer" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
-  <!-- Animated banner with consistent font -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&center=true&vCenter=true&random=false&width=1200&height=80&lines=✨+Malak's+Github+✨;Software+Engineer+%7C+AI+Enthusiast;Computer+Science+Student+at+FCAI-CU" alt="Typing SVG" />
-  </a>
-  
-  <!-- Profile views and followers with animation -->
-  <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+</div>
+
+<div align="center">
+  <p>
     <img src="https://komarev.com/ghpvc/?username=Malak-Alaabiad&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Malak-Alaabiad" />
     <img src="https://img.shields.io/github/followers/Malak-Alaabiad?label=Followers&style=for-the-badge&color=blueviolet" alt="Malak-Alaabiad" />
   </p>
-
-  <!-- Animated robot -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-<br>
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"> Introduction
 
-<!-- About Me Section with animated robot -->
-<div>
-  <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px"/>
-  
-  ## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> <b> About Me </b>
-  
-  <p align="left">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> <b>Second-year student</b> at the <b>Faculty of Computers and Artificial Intelligence - Cairo University (FCAI-CU)</b>.<br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> <b>Software Engineer</b> | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="25" height="25" /> <b>AI Engineer</b><br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> <b>AI Challenge Winner</b> at AI Catalyst 24, Nile University.<br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Teacher.png" alt="Teacher" width="25" height="25" /> <b>AI & Machine Learning Instructor</b> at MSP Tech Club, Helwan University.<br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> Aspiring <b>competitive programmer</b>, working towards <b>ICPC-level proficiency</b><br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Artist Palette" width="25" height="25" /> Passionate about <b>Machine Learning, Deep Learning, Computer Vision and NLP</b>.<br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> Reach me at <b>malakkalaabiadd@gmail.com</b><br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> <b>Portfolio:</b> <a href="https://malak-alaabiad.github.io/My_Portfolio/">My Website</a><br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Open to <b>job opportunities</b> → <a href="https://drive.google.com/file/d/1fg4HKUD3Qt1WjRzZDt4ra7ipcPhDdIpy/view?usp=drive_link">My Resume</a>
-  </p>
-</div>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+
+Hi there! 👋 I'm **Malak Al-Aabiad**, a passionate AI Engineer from Cairo, Egypt. I'm currently pursuing my studies at the Faculty of Computers and Artificial Intelligence at Cairo University (FCAI-CU).
+
+I possess a strong foundation in Artificial Intelligence and Data Science with technical skills including proficiency in Python, C++, and C#, as well as expertise with key AI and Data Science frameworks. I'm particularly skilled in computer vision techniques and natural language processing (NLP).
+
+My passion lies in technology, particularly in the fields of data science and AI. Exploring the intricacies of these disciplines fuels my curiosity and inspires me to contribute to the advancements shaping our digital landscape.
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
 </div>
 
-<!-- Tech Stack with animated icons -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"><b> Tech Stack & Skills </b>
+## <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" width="30"> My Journey So Far
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="300">
+
+### 🎓 Education
+- Currently a student at the **Faculty of Computers and Artificial Intelligence, Cairo University**
+- Relevant Coursework: Programming-1, Object-Oriented Programming, Mathematics-1, Mathematics-2, Statistics-1, Statistics-2, Discrete Mathematics, Digital Logic Design
+- Building a solid foundation in problem-solving skills through training on Codeforces
+
+### 🤖 Specialized Training
+- Completed a summer training in **Deep Learning at Huawei ICT Academy-Cairo University (Huawei HCIP-AI V2.0)** focused on:
+  - Deep Learning (Artificial Neural Networks)
+  - Computer Vision (Feature Extraction, CNN, Object Detection, Object Segmentation)
+  - Speech Processing (Speech Signal Analysis, Feature Extraction, Recognition, Text-to-Speech)
+  - NLP (Text Classification, Text Generation, Machine Translation using RNN)
+
+### 📊 Data Science Expertise
+- Completed a **75-hour intensive diploma in Data Science and Artificial Intelligence** at DotPy Academy focused on:
+  - Data handling and preprocessing
+  - Various machine learning algorithms
+  - Deep neural networks
+  - Transfer learning
 
 <div align="center">
-  <!-- Programming Languages -->
-  <h3>💻 Programming Languages</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=cpp,python,cs&theme=dark" alt="Programming Languages" />
-  </p>
-  
-  <!-- AI & Data Science with animated badges -->
-  <h3>🤖 Artificial Intelligence and Data Science</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white&labelColor=505050" alt="Numpy" />
-    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white&labelColor=505050" alt="Pandas" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=505050" alt="TensorFlow" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=505050" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=505050" alt="OpenCV" />
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=505050" alt="Jupyter" />
-  </p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Machine%20Learning-%233DDC84.svg?style=for-the-badge&labelColor=505050" alt="Machine Learning" />
-    <img src="https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge&labelColor=505050" alt="Deep Learning" />
-    <img src="https://img.shields.io/badge/Computer%20Vision-%23007ACC.svg?style=for-the-badge&labelColor=505050" alt="Computer Vision" />
-    <img src="https://img.shields.io/badge/NLP-%239966FF.svg?style=for-the-badge&labelColor=505050" alt="NLP" />
-  </p>
-  
-  <!-- IDEs and Tools -->
-  <h3>🛠️ IDEs and Tools</h3>
-  <p>
-    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white&labelColor=505050" alt="PyCharm" />
-    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=505050" alt="VS Code" />
-    <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white&labelColor=505050" alt="CLion" />
-    <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252&labelColor=505050" alt="Google Colab" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=505050" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=505050" alt="GitHub" />
-  </p>
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
 </div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> Experience & Leadership
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
+
+### 👨‍🏫 AI Instructor at MSP Tech Club - Helwan University
+*September 2024 - Present*
+- Deliver interactive and engaging sessions on Machine Learning fundamentals and advanced algorithms
+- Conduct over 8 sessions per month, tailoring content to suit diverse learning needs
+- Track and monitor student progress to ensure academic growth
+- Maintain clear communication regarding expectations, assignments, and grading criteria
+- Offer guidance and support to students, fostering a positive learning environment
+- Adapt teaching strategies to accommodate varied learning styles and needs
+
+### 🧠 AI Head at MSP Tech Club - Helwan University
+- Lead AI initiatives and projects
+- Mentor team members in AI and machine learning concepts
+- Organize workshops and training sessions
+
+### 🌱 Continuous Learning
+- Dedicated to self-improvement and expanding my skills
+- Exploring new programming languages, frameworks, and concepts beyond the classroom
+- Acquiring skills in SQL Server for database management
+- Gaining expertise in Flutter development
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
 </div>
 
-<!-- Projects Section with animations -->
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Notable Projects
+## <img src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a81-8b47-0d5d7c8552a4.png" width="30"> Projects
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🔹 Road Damage Detection using YOLOv8</h3>
+        <h3 align="center">🔹 Road Damage Detection</h3>
         <p align="center">
           <a href="https://github.com/Malak-Alaabiad/Road-Damage-Detection" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c5ea-4ea7-b7dc-73a029235613.gif" width="100%" alt="Road Damage Detection"/>
+            <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100%" alt="Road Damage Detection"/>
           </a>
           <p align="center">
             <a href="https://github.com/Malak-Alaabiad/Road-Damage-Detection" target="_blank">
@@ -112,10 +108,40 @@
         </p>
       </td>
       <td width="50%">
+        <h3 align="center">🔹 Skin Tone Classification</h3>
+        <p align="center">
+          <a href="https://github.com/Malak-Alaabiad/Skin-Tone-Classification" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%" alt="Skin Tone Classification"/>
+          </a>
+          <p align="center">
+            <a href="https://github.com/Malak-Alaabiad/Skin-Tone-Classification" target="_blank">
+              <img src="https://img.shields.io/badge/Code-00B8D4?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+          </p>
+          <p>Developed a skin tone classification model using <strong>CNNs</strong> to categorize images into seven skin tone categories. Deployed with <strong>Flask</strong> for an interactive web application.</p>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🔹 Face Emotion Classification</h3>
+        <p align="center">
+          <a href="https://github.com/Malak-Alaabiad/Face-Emotion-Classification" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100%" alt="Face Emotion Classification"/>
+          </a>
+          <p align="center">
+            <a href="https://github.com/Malak-Alaabiad/Face-Emotion-Classification" target="_blank">
+              <img src="https://img.shields.io/badge/Code-00B8D4?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+          </p>
+          <p>Developed a deep learning model for facial emotion detection using the <strong>FER2013 dataset</strong> with 35,887 labeled images spanning seven emotions. Integrated the <strong>Wider Face dataset</strong> for face detection.</p>
+        </p>
+      </td>
+      <td width="50%">
         <h3 align="center">🔹 Editopia - AI-Powered Photo Editor</h3>
         <p align="center">
           <a href="https://github.com/Malak-Alaabiad/Editopia" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" alt="Editopia"/>
+            <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%" alt="Editopia"/>
           </a>
           <p align="center">
             <a href="https://github.com/Malak-Alaabiad/Editopia" target="_blank">
@@ -126,87 +152,191 @@
         </p>
       </td>
     </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-<!-- Achievements Section with animations -->
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Achievements & Certifications
-
-<div align="center">
-  <table>
     <tr>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100" align="center" />
+      <td width="50%">
+        <h3 align="center">🔹 House Prices Prediction Model</h3>
+        <p align="center">
+          <a href="https://github.com/Malak-Alaabiad/House-Price-Prediction" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%" alt="House Price Prediction"/>
+          </a>
+          <p align="center">
+            <a href="https://github.com/Malak-Alaabiad/House-Price-Prediction" target="_blank">
+              <img src="https://img.shields.io/badge/Code-00B8D4?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+          </p>
+          <p>A machine learning model that can predict house prices using Python, implementing various regression algorithms and feature engineering techniques.</p>
+        </p>
       </td>
-      <td>
-        <ul>
-          <li>🏆 <strong>1st Place Winner</strong> at AI Catalyst 24 (AI Challenge)</li>
-          <li>📜 <strong>Artificial Intelligence & Data Science Course</strong> - DotPy Academy</li>
-          <li>🎤 Speaker at AI & tech events</li>
-        </ul>
+      <td width="50%">
+        <h3 align="center">🔹 Neural Insights Blog</h3>
+        <p align="center">
+          <a href="https://lnkd.in/dP8iA-wJ" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100%" alt="Neural Insights Blog"/>
+          </a>
+          <p align="center">
+            <a href="https://lnkd.in/dP8iA-wJ" target="_blank">
+              <img src="https://img.shields.io/badge/Visit-00B8D4?style=for-the-badge&logo=blogger&logoColor=white"/>
+            </a>
+          </p>
+          <p>Created a blog diving deep into fundamental concepts of Data Science, AI, and Machine Learning, breaking down complex topics into easy-to-understand insights.</p>
+        </p>
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
 </div>
 
-<!-- GitHub Stats with animations -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://user-images.githubusercontent.com/74038190/216121986-347e9a1c-57ac-4e7c-a8dd-5d6a45da7a7d.png" width="30"> Technical Skills
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Malak-Alaabiad&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Malak-Alaabiad&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="Malak-Alaabiad"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malak-Alaabiad&theme=tokyonight" alt="mystreak"/>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 </div>
 
-<!-- Connect Section with animations -->
-## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30"><b> Let's Connect!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+</p>
+
+### 🧠 AI & Data Science
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+</p>
+
+### 🔍 AI Specializations
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/NLP-9cf?style=for-the-badge&logo=natural-language-processing&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Data_Preprocessing-3776AB?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Preprocessing" />
+  <img src="https://img.shields.io/badge/Transfer_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Transfer Learning" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-00db5e99-7a0d-4166-a3f1-dd3000b2a728.png" width="30"> Certifications & Awards
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b0-a75c-42a2ba76f810.gif" width="250">
+
+### 🏆 Awards
+- **1st Place Winner** in the AI Challenge at AI Catalyst'24 event, Nile University (August 2024)
+  - Developed a model for road damage detection and classification
+  - Led the AI component of the project
+
+### 📜 Certifications
+- **AI Engineer for Data Scientists Associate** certification from DataCamp
+- **Data Science and AI 75-Hours Diploma** from DotPy Academy
+- **Huawei Summer Training of Artificial Intelligence HCIP-AI V2.0**
+- **MSP Certification** as AI and Machine Learning Instructor from MSP Tech Club - Helwan University
+
+### 🎓 Kaggle Courses
+- Data Cleaning Course
+- Machine Learning Course
+- Pandas Course
+- Python Course
+- AI Ethics Course
+- Intro to Programming Course
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"> GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Malak-Alaabiad&show_icons=true&theme=tokyonight" alt="Malak's GitHub stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malak-Alaabiad&theme=tokyonight" alt="Malak's GitHub streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malak-Alaabiad&layout=compact&theme=tokyonight" alt="Malak's top languages" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="30"> Community Initiatives
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+
+### 📚 Neural Insights Blog
+- Created a blog diving deep into fundamental concepts of Data Science, AI, and Machine Learning
+- Breaking down complex topics into easy-to-understand insights
+- Visit: [Neural Insights](https://lnkd.in/dP8iA-wJ)
+
+### 👥 DotPy Programming Hub
+- Moderator of the AI and Data Science community on Facebook
+- Sharing insightful content, posts, memes, and comics about AI and Data Science
+- Building a vibrant community where knowledge meets creativity
+- Join: [DotPy Programming Hub](https://lnkd.in/dstZuRCE)
+
+### 📊 Educational Series
+- Launched a 30-day Machine Learning Algorithms series on LinkedIn
+- Sharing insights and fostering community engagement
+- Reached Expert on Kaggle (Top 2,000 worldwide out of 50,000+)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216121942-c05b52fb-983e-4ee8-8811-6f30cd6ea5eb.png" width="30"> Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/malak-alaabiad/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/Malak.AlAabiad" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
   <a href="https://github.com/Malak-Alaabiad" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:malakkalaabiadd@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.kaggle.com/malakalaabiad" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
+  <a href="mailto:malakkalaabiadd@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://codeforces.com/profile/MalakM.Al-Aabiad" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://malak-alaabiad.github.io/My_Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="350">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-<!-- Animated footer -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center">
-  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-  <br>
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+  <br><br>
   <h4 align="center">
-    <a href="https://github.com/Malak-Alaabiad?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+    <a href="https://github.com/Malak-Alaabiad?tab=repositories" title="Show Repositories">🔎 Show More Repositories 🔍</a>
   </h4>
   <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7A7ADB&style=flat&logo" alt="back to top" /></a></p>
-  
-  <!-- Animated robots -->
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
