@@ -35,7 +35,7 @@
   🏆 Aspiring <b>competitive programmer</b>, working towards <b>ICPC-level proficiency</b><br>
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Artist Palette" width="25" height="25" /> Passionate about <b>Machine Learning, Deep Learning, Computer Vision and NLP</b>.<br>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> Reach me at : <b>malakkalaabiadd@gmail.com</b><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" height="25" /> <b>My Portfolio:</b> <a href="https://malak-alaabiad.github.io/My_Portfolio/](https://malook-portfolio-rho.vercel.app">Website Link</a><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" height="25" /> <b>My Portfolio:</b> <a href="https://malook-portfolio-rho.vercel.app/">Website Link</a><br>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Open to <b>job opportunities</b> → <a href="https://drive.google.com/file/d/1fg4HKUD3Qt1WjRzZDt4ra7ipcPhDdIpy/view?usp=drive_link">My Resume</a>
 </p>
 
