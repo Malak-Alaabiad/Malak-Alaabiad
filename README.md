@@ -52,10 +52,6 @@ My passion lies in technology, particularly in the fields of data science and AI
   - Deep neural networks
   - Transfer learning
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
-</div>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> Experience & Leadership
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
@@ -80,9 +76,6 @@ My passion lies in technology, particularly in the fields of data science and AI
 - Acquiring skills in SQL Server for database management
 - Gaining expertise in Flutter development
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
-</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a81-8b47-0d5d7c8552a4.png" width="30"> Projects
 
@@ -181,9 +174,6 @@ My passion lies in technology, particularly in the fields of data science and AI
   </table>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
-</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216121986-347e9a1c-57ac-4e7c-a8dd-5d6a45da7a7d.png" width="30"> Technical Skills
 
@@ -229,10 +219,6 @@ My passion lies in technology, particularly in the fields of data science and AI
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
-</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-00db5e99-7a0d-4166-a3f1-dd3000b2a728.png" width="30"> Certifications & Awards
 
