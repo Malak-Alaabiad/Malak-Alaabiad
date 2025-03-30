@@ -16,7 +16,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" alt="Cute robot drinking coffee">
+  <img src="AI.jpg" width="200" alt="Cute robot drinking coffee">
 </div>
 
 <div align="center">
