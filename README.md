@@ -1,5 +1,14 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/banner.gif" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd1ZWJtZWJvZXJlZWVxcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcWJwcW5wcWJ534.
+
+<JAYANANDAN>
+
+<div align="center">
+  <img src"https://user-images.github_com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
   <h1>✨ Malak Al-Aabiad ✨</h1>
   <h3>AI Engineer | Data Scientist | Software Developer</h3>
 </div>
@@ -29,6 +38,10 @@ I possess a strong foundation in Artificial Intelligence and Data Science with t
 
 My passion lies in technology, particularly in the fields of data science and AI. Exploring the intricacies of these disciplines fuels my curiosity and inspires me to contribute to the advancements shaping our digital landscape.
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
+</div>
+
 ## <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" width="30"> My Journey So Far
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="300">
@@ -51,6 +64,10 @@ My passion lies in technology, particularly in the fields of data science and AI
   - Various machine learning algorithms
   - Deep neural networks
   - Transfer learning
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
+</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> Experience & Leadership
 
@@ -76,6 +93,9 @@ My passion lies in technology, particularly in the fields of data science and AI
 - Acquiring skills in SQL Server for database management
 - Gaining expertise in Flutter development
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
+</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a81-8b47-0d5d7c8552a4.png" width="30"> Projects
 
@@ -174,6 +194,9 @@ My passion lies in technology, particularly in the fields of data science and AI
   </table>
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
+</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216121986-347e9a1c-57ac-4e7c-a8dd-5d6a45da7a7d.png" width="30"> Technical Skills
 
@@ -220,6 +243,10 @@ My passion lies in technology, particularly in the fields of data science and AI
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
+</div>
+
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-00db5e99-7a0d-4166-a3f1-dd3000b2a728.png" width="30"> Certifications & Awards
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b0-a75c-42a2ba76f810.gif" width="250">
@@ -243,6 +270,10 @@ My passion lies in technology, particularly in the fields of data science and AI
 - AI Ethics Course
 - Intro to Programming Course
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
+</div>
+
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"> GitHub Stats
 
 <div align="center">
@@ -253,6 +284,9 @@ My passion lies in technology, particularly in the fields of data science and AI
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malak-Alaabiad&layout=compact&theme=tokyonight" alt="Malak's top languages" />
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
+</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="30"> Community Initiatives
 
@@ -274,6 +308,9 @@ My passion lies in technology, particularly in the fields of data science and AI
 - Sharing insights and fostering community engagement
 - Reached Expert on Kaggle (Top 2,000 worldwide out of 50,000+)
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%">
+</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216121942-c05b52fb-983e-4ee8-8811-6f30cd6ea5eb.png" width="30"> Connect With Me
 
@@ -298,7 +335,9 @@ My passion lies in technology, particularly in the fields of data science and AI
   </a>
 </div>
 
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
