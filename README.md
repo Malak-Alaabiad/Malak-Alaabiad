@@ -254,7 +254,7 @@
 <div align='left'>
   <ul>
     <li>
-      <a href="https://www.linkedin.com/in/malak-alaabiad/" target="_blank">
+      <a href="https://www.linkedin.com/in/malakal-aabiad/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn: Malak AlAabiad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
       </a>
     </li>
