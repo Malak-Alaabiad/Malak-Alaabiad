@@ -251,36 +251,36 @@
 📩 Let's Connect..! </b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 
 <br>
-
 <div align='left'>
   <ul>
     <li>
       <a href="https://www.linkedin.com/in/malak-alaabiad/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin: Malak AlAabiad-%2300acee.svg?color=A020F0&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+        <img src="https://img.shields.io/badge/LinkedIn: Malak AlAabiad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
       </a>
     </li>
     <li>
       <a href="https://www.facebook.com/Malak.AlAabiad?mibextid=ZbWKwL" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook: Malak AlAabiad-%2300acee.svg?color=A020F0&style=for-the-badge&logo=Facebook&logoColor=white" alt=Facebook style="margin-bottom: 5px;"/>
+        <img src="https://img.shields.io/badge/Facebook: Malak AlAabiad-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-bottom: 5px;" />
       </a>
     </li>
     <li>
       <a href="https://github.com/Malak-Alaabiad" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub: Malak AlAabiad-%2300acee.svg?color=A020F0&style=for-the-badge&logo=github&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+        <img src="https://img.shields.io/badge/GitHub: Malak AlAabiad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
       </a>
     </li>
     <li>
       <a href="mailto:malakkalaabiadd@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/gmail: Malak AlAabiad-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&color=A020F0" t=mail style="margin-bottom: 5px;" />
+        <img src="https://img.shields.io/badge/Gmail: Malak AlAabiad-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
       </a>
     </li>
     <li>
       <a href="https://www.kaggle.com/malakalaabiad" target="_blank">
-        <img src="https://img.shields.io/badge/kaggle: Malak Al-Aabiad-%2300acee.svg?color=A020F0&style=for-the-badge&logo=kaggle&logoColor=white" alt=kaggle style="margin-bottom: 5px;" />
+        <img src="https://img.shields.io/badge/Kaggle: Malak AlAabiad-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="margin-bottom: 5px;" />
       </a>
     </li>
   </ul>
 </div>
+
 
 <br>
 
