@@ -174,48 +174,18 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif" width="300">
-</div>
-
-### 💻 Programming Languages:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python" alt=""/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
-</p>
-
-### 🛠 Artificial Intelligence and Data Science:
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Handling%20and%20Preprocessing-%2300C853.svg?style=for-the-badge&color=A020F0" alt="Data Handling and Preprocessing" />
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white&color=A020F0" alt="Numpy" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white&color=A020F0" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Machine%20Learning%20Algorithms-%233DDC84.svg?style=for-the-badge&color=A020F0" alt="Machine Learning Algorithms" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge&color=A020F0" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-%23007ACC.svg?style=for-the-badge&color=A020F0" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/NLP-%239966FF.svg?style=for-the-badge&color=A020F0" alt="NLP" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&color=A020F0" alt="Kaggle" />
-</p>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-  <img width="12" />
-</div>
-
-### 🛠 Used Compilers and IDE:
-<div align='left'>
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white&color=A020F0" alt="PyCharm" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=A020F0" alt="VS Code" />
-  <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white&color=A020F0" alt="CLion" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&color=A020F0" alt="Google Colab" />
-</div>
+#<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
+<div align="center"> <img src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif" width="300"> </div>
+💻 Programming Languages:
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,cpp,csharp,dart,html,css,js" alt="Languages"/> </p>
+🤖 Artificial Intelligence and Data Science:
+<p align="center"> <img src="https://img.shields.io/badge/Data%20Handling%20and%20Preprocessing-%2300C853.svg?style=for-the-badge&color=A020F0" /> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white&color=A020F0" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white&color=A020F0" /> <img src="https://img.shields.io/badge/Matplotlib-%233DDC84?style=for-the-badge&logo=matplotlib&logoColor=white&color=A020F0" /> <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&color=A020F0" /> <img src="https://img.shields.io/badge/Machine%20Learning%20Algorithms-%233DDC84.svg?style=for-the-badge&color=A020F0" /> <img src="https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge&color=A020F0" /> <img src="https://img.shields.io/badge/Computer%20Vision-%23007ACC.svg?style=for-the-badge&color=A020F0" /> <img src="https://img.shields.io/badge/NLP-%239966FF.svg?style=for-the-badge&color=A020F0" /> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&color=A020F0" /> </p>
+🧠 Frameworks & Libraries:
+<p align="left"> <img src="https://skillicons.dev/icons?i=tensorflow,keras,opencv" alt=""/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" /> <img width="12"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" /> </p>
+🧰 Tools & Platforms:
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,clion" alt=""/> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&color=A020F0" /> <img src="https://img.shields.io/badge/Roboflow-%23000000.svg?style=for-the-badge&logo=roboflow&logoColor=white&color=A020F0" /> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&color=A020F0" /> </p>
+📦 Other Skills:
+<p align="left"> <img src="https://img.shields.io/badge/Transfer%20Learning-%2300C853.svg?style=for-the-badge&color=A020F0" /> <img src="https://img.shields.io/badge/YOLOv8-%23007ACC.svg?style=for-the-badge&color=A020F0" /> <img src="https://img.shields.io/badge/OpenCV-%230073C6.svg?style=for-the-badge&color=A020F0" /> <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white&color=A020F0" /> <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white&color=A020F0" /> </p>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
