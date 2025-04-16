@@ -176,15 +176,15 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 <div align="center"> <img src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif" width="300"> </div>
-💻 Programming Languages:
+### 💻 Programming Languages:
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,cpp,csharp,html,css,js" alt="Languages"/> </p>
-🤖 Artificial Intelligence and Data Science:
+### 🤖 Artificial Intelligence and Data Science:
 <p align="center"> <img src="https://img.shields.io/badge/Data%20Handling%20and%20Preprocessing-4CAF50?style=for-the-badge" /> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Machine%20Learning%20Algorithms-388E3C?style=for-the-badge" /> <img src="https://img.shields.io/badge/Deep%20Learning-E65100?style=for-the-badge" /> <img src="https://img.shields.io/badge/Computer%20Vision-2196F3?style=for-the-badge" /> <img src="https://img.shields.io/badge/NLP-9C27B0?style=for-the-badge" /> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /> </p>
-🧠 Frameworks & Libraries:
+### 🧠 Frameworks & Libraries:
 <p align="left"> <img src="https://skillicons.dev/icons?i=tensorflow,keras,opencv" alt=""/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" /> <img width="12"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" /> </p>
-🧰 Tools & Platforms:
+### 🧰 Tools & Platforms:
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,clion" alt=""/> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /> <img src="https://img.shields.io/badge/Roboflow-000000?style=for-the-badge&logo=roboflow&logoColor=white" /> </p>
-📦 Other Skills:
+### 📦 Other Skills:
 <p align="left"> <img src="https://img.shields.io/badge/Transfer%20Learning-673AB7?style=for-the-badge" /> <img src="https://img.shields.io/badge/YOLOv8-009688?style=for-the-badge" /> <img src="https://img.shields.io/badge/OpenCV-5C6BC0?style=for-the-badge" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> </p>
 
 <div align="center">
