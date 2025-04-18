@@ -180,7 +180,7 @@
 </div>
 
 <h2 style="color: #A020F0; font-weight: bold;">💻 Programming Languages:</h2>
-<p align="left"> 
+<p align="center"> 
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" alt="Languages"/> 
 </p>
 
