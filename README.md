@@ -222,6 +222,48 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> 
 </p>
 
+### 🧠 Artificial Intelligence & Data Science
+
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Data%20Handling%20and%20Preprocessing-4CAF50?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Algorithms-388E3C?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Deep%20Learning-E65100?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Computer%20Vision-2196F3?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/NLP-9C27B0?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /> 
+</p>
+
+### 📚 Frameworks & Libraries
+
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" alt=""/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" /> 
+  <img width="12"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" /> 
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,clion" alt=""/> 
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Roboflow-000000?style=for-the-badge&logo=roboflow&logoColor=white" /> 
+</p>
+
+### 📦 Other Skills
+
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Transfer%20Learning-673AB7?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/YOLOv8-009688?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/OpenCV-5C6BC0?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> 
+</p>
+
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
