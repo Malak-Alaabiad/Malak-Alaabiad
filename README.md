@@ -7,7 +7,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=A020F0&&weight=500&size=60&pause=2000&center=true&vCenter=true&random=false&width=1200&height=80&lines=%E2%9C%A8+Malook's+Github+%E2%9C%A8" alt="Typing SVG" /></a>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=A020F0&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;A+Computer+Science+Student+at+FCAI-CU"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=A020F0&size=25&center=true&vCenter=true&width=600&height=100&lines=AI+Engineer+at+YOUXEL+Technology;"></a>
 </p>
 
 <p align="center">
@@ -74,6 +74,8 @@
 ## <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="50"> Experience & Leadership
 
 <img align="right" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width="300">
+
+### 👨‍🏫 AI Engineer at YOUXEL Technology
 
 ### 👨‍🏫 AI Instructor at MSP Tech Club - Helwan University
 *September 2024 - Present*
