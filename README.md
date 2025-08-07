@@ -28,9 +28,8 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px"/>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> <b>Second-year student</b> at the <b>Faculty of Computers and Artificial Intelligence - Cairo University (FCAI-CU)</b>.<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> <b>Software Engineer</b><br>
-  🤖 <b>AI Engineer</b><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /><br>
+  🤖 <b>AI Engineer at YOUXEL Technology</b><br>
   🏆 <b>AI Challenge Winner</b> at AI Catalyst 24, Nile University.<br>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Teacher.png" alt="Teacher" width="25" height="25" /> <b>AI & Machine Learning Instructor</b> at MSP Tech Club, Helwan University.<br>
   🏆 Aspiring <b>competitive programmer</b>, working towards <b>ICPC-level proficiency</b><br>
@@ -49,7 +48,7 @@
 <img align="right" src="https://i.pinimg.com/originals/0c/ea/1f/0cea1f9c936d748beac2febd2a63c52c.gif" width="300">
 
 ### 🎓 Education
-- Currently a student at the **Faculty of Computers and Artificial Intelligence, Cairo University**
+- **Faculty of Computers and Artificial Intelligence, Cairo University (FCAI-CU)**
 - Relevant Coursework: Programming-1, Object-Oriented Programming, Mathematics-1, Mathematics-2, Statistics-1, Statistics-2, Discrete Mathematics, Digital Logic Design
 - Building a solid foundation in problem-solving skills through training on Codeforces
 
