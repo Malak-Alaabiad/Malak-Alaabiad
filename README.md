@@ -28,9 +28,8 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px"/>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /><br>
   🤖 <b>AI Engineer at YOUXEL Technology</b><br>
-  🏆 <b>AI Challenge Winner</b> at AI Catalyst 24, Nile University.<br>
+  🏆 <b>1st place AI Challenge Winner</b> at AI Catalyst 24, Nile University.<br>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Teacher.png" alt="Teacher" width="25" height="25" /> <b>AI & Machine Learning Instructor</b> at MSP Tech Club, Helwan University.<br>
   🏆 Aspiring <b>competitive programmer</b>, working towards <b>ICPC-level proficiency</b><br>
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Artist Palette" width="25" height="25" /> Passionate about <b>Machine Learning, Deep Learning, Computer Vision and NLP</b>.<br>
