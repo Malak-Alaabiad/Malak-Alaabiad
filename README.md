@@ -1,12 +1,8 @@
 <div align="center">
 
 <!-- HERO SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Malak%20Al-Aabiad&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=AI%20Engineer%20•%20Flutter%20Developer%20•%20Problem%20Solver&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Malak%20Al-Aabiad&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=AI%20Engineer%20•%20&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
-<!-- TYPING EFFECT -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%93%B1+Building+Beautiful+Mobile+Experiences;%F0%9F%8F%97%EF%B8%8F+Clean+Architecture+Enthusiast;%F0%9F%8F%86+Aspiring+ICPC+Competitive+Programmer;%E2%9A%A1+Turning+Ideas+into+Scalable+Apps" alt="Typing SVG" />
-</a>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=A020F0&&size=70&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
