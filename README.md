@@ -271,11 +271,11 @@
 
 <h4 align="center">
   <a href="https://github.com/Malak-Alaabiad?tab=repositories&color=A020F0" title="Show Repositories">
-    <span style="color: #A020F0;">🔎 Show More 🔍</span>
+    <span style="color: #A020F0;">Show More</span>
   </a>
   <p align="right">
     <a href="#top">
-      <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=A020F0&style=flat&logo" alt="back to top" />
+      <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=58a6ff&style=flat&logo" alt="back to top" />
     </a>
   </p>
 </h4>
