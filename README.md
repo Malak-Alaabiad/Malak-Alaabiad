@@ -224,7 +224,7 @@
 
 <br>
 
-📩 Let's Connect..! </b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+📩 Let's Connect..! </b>
 
 <br>
 <div align='left'>
@@ -257,6 +257,12 @@
   </ul>
 </div>
 <br>
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="500"/>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
