@@ -221,7 +221,7 @@
 
 <br>
 
-📩 Let's Connect..! </b>
+Let's Connect..! </b>
 
 <br>
 <div align='left'>
