@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Malak%20Al-Aabiad&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=AI%20Engineer%20•%20&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Malak%20Al-Aabiad&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=AI%20Engineer%20at%20YOUXEL%20Technology&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 
 <h1 align="center">
