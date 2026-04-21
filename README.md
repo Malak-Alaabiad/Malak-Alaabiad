@@ -7,7 +7,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Malak-Alaabiad&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="Malak-Alaabiad" />
   <img src="https://img.shields.io/github/followers/Malak-Alaabiad?label=Followers&style=for-the-badge&color=58a6ff" alt="Malak-Alaabiad" />
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://malook-portfolio-rho.vercel.app/)
 </p>
+<!-- BADGES -->
+<br/>
+
+</div>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
