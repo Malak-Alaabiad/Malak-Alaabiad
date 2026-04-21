@@ -36,11 +36,11 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> My Journey So Far
+## My Journey So Far
 
 <img align="right" src="https://i.pinimg.com/originals/0c/ea/1f/0cea1f9c936d748beac2febd2a63c52c.gif" width="300">
 
-### 🎓 Education
+### Education
 - **Faculty of Computers and Artificial Intelligence, Cairo University (FCAI-CU)**
 - Relevant Coursework: Programming-1, Object-Oriented Programming, Mathematics-1, Mathematics-2, Statistics-1, Statistics-2, Discrete Mathematics, Digital Logic Design
 - Building a solid foundation in problem-solving skills through training on Codeforces
@@ -52,7 +52,7 @@
   - Speech Processing (Speech Signal Analysis, Feature Extraction, Recognition, Text-to-Speech)
   - NLP (Text Classification, Text Generation, Machine Translation using RNN)
 
-### 📊 Data Science Expertise
+### Data Science Expertise
 - Completed a **75-hour intensive diploma in Data Science and Artificial Intelligence** at DotPy Academy focused on:
   - Data handling and preprocessing
   - Various machine learning algorithms
@@ -93,22 +93,16 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Projects
-
+## Projects
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🔮 Road Damage Detection</h3>
+        <h3 align="center">Road Damage Detection</h3>
         <p align="center">
           <a href="https://github.com/Malak-Alaabiad/Road-Damage-Detection" target="_blank">
-            <img src="https://i.pinimg.com/originals/a2/b4/ae/a2b4ae4ebabcd10ff10a1581366f6df2.gif" width="100%" alt="Road Damage Detection"/>
+            View on GitHub
           </a>
-          <p align="center">
-            <a href="https://github.com/Malak-Alaabiad/Road-Damage-Detection" target="_blank">
-              <img src="https://img.shields.io/badge/Code-A020F0?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-          </p>
           <p><strong> AI Challenge Winner</strong><br>Developed an AI model for detecting road damage in Egypt using <strong>YOLOv8</strong> with <strong>transfer learning</strong> to improve detection accuracy.</p>
         </p>
       </td>
@@ -116,43 +110,28 @@
         <h3 align="center"> Skin Tone Classification</h3>
         <p align="center">
           <a href="https://github.com/Malak-Alaabiad/Skin-Tone-Classification" target="_blank">
-            <img src="https://i.pinimg.com/originals/c6/f1/3b/c6f13b01a53d7152d7e67decf05a4adf.gif" width="100%" alt="Skin Tone Classification"/>
+            View on GitHub
           </a>
-          <p align="center">
-            <a href="https://github.com/Malak-Alaabiad/Skin-Tone-Classification" target="_blank">
-              <img src="https://img.shields.io/badge/Code-A020F0?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-          </p>
           <p>Developed a skin tone classification model using <strong>CNNs</strong> to categorize images into seven skin tone categories. Deployed with <strong>Flask</strong> for an interactive web application.</p>
         </p>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">🔮 Face Emotion Classification</h3>
+        <h3 align="center">Face Emotion Classification</h3>
         <p align="center">
           <a href="https://github.com/Malak-Alaabiad/Face-Emotion-Classification" target="_blank">
-            <img src="https://i.pinimg.com/originals/e4/d6/a7/e4d6a7e4bdc5e9c318d5292a74d14dcb.gif" width="100%" alt="Face Emotion Classification"/>
+            View on GitHub
           </a>
-          <p align="center">
-            <a href="https://github.com/Malak-Alaabiad/Face-Emotion-Classification" target="_blank">
-              <img src="https://img.shields.io/badge/Code-A020F0?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-          </p>
           <p>Developed a deep learning model for facial emotion detection using the <strong>FER2013 dataset</strong> with 35,887 labeled images spanning seven emotions. Integrated the <strong>Wider Face dataset</strong> for face detection.</p>
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">🔮 Editopia - AI-Powered Photo Editor</h3>
+        <h3 align="center">Editopia - AI-Powered Photo Editor</h3>
         <p align="center">
           <a href="https://github.com/Malak-Alaabiad/Editopia" target="_blank">
-            <img src="https://i.pinimg.com/originals/ad/d2/31/add23123b088c3301cc2c71f7767048d.gif" width="100%" alt="Editopia"/>
+            View on GitHub
           </a>
-          <p align="center">
-            <a href="https://github.com/Malak-Alaabiad/Editopia" target="_blank">
-              <img src="https://img.shields.io/badge/Code-A020F0?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-          </p>
           <p>Developed a photo editing application with <strong>multiple AI-powered filters</strong> including Grayscale, Black & White, PopArt, Oil Painting, Edge Detection, and more.</p>
         </p>
       </td>
@@ -173,12 +152,12 @@
   <img src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif" width="300"> 
 </div>
 
-<h2 style="color: #A020F0; font-weight: bold;">💻 Programming Languages:</h2>
+<h2 style="color: #A020F0; font-weight: bold;">Programming Languages:</h2>
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" alt="Languages"/> 
 </p>
 
-### 🧠 Artificial Intelligence & Data Science
+### Artificial Intelligence & Data Science
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Data%20Handling%20and%20Preprocessing-4CAF50?style=for-the-badge" /> 
@@ -193,7 +172,7 @@
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /> 
 </p>
 
-### 📚 Frameworks & Libraries
+### Frameworks & Libraries
 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv" alt=""/> 
@@ -202,7 +181,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" /> 
 </p>
 
-### ⚙️ Tools & Platforms
+### Tools & Platforms
 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,clion" alt=""/> 
@@ -210,7 +189,7 @@
   <img src="https://img.shields.io/badge/Roboflow-000000?style=for-the-badge&logo=roboflow&logoColor=white" /> 
 </p>
 
-### 📦 Other Skills
+### Other Skills
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Transfer%20Learning-673AB7?style=for-the-badge" /> 
