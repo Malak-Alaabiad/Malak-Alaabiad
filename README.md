@@ -4,16 +4,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Malak%20Al-Aabiad&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=AI%20Engineer%20at%20YOUXEL%20Technology&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=A020F0&&size=70&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
-</h1>
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=A020F0&&weight=500&size=60&pause=2000&center=true&vCenter=true&random=false&width=1200&height=80&lines=%E2%9C%A8+Maloooook's+Github+%E2%9C%A8" alt="Typing SVG" /></a>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=A020F0&size=25&center=true&vCenter=true&width=600&height=100&lines=AI+Engineer+at+YOUXEL+Technology;"></a>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Malak-Alaabiad&label=Profile%20views&color=A020F0&style=for-the-badge" alt="Malak-Alaabiad" />
   <img src="https://img.shields.io/github/followers/Malak-Alaabiad?label=Followers&style=for-the-badge&color=A020F0" alt="Malak-Alaabiad" />
