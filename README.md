@@ -218,9 +218,6 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="25"><b> My Social Media...</b>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" width="300" alt="Cute robot drinking coffee">
-</div>
 
 <br>
 
