@@ -31,6 +31,11 @@
    <b>My Portfolio:</b> <a href="https://malook-portfolio-rho.vercel.app/">Website Link</a><br>
    Open to <b>job opportunities</b> → <a href="https://drive.google.com/file/d/1fg4HKUD3Qt1WjRzZDt4ra7ipcPhDdIpy/view?usp=drive_link">My Resume</a>
 </p>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> My Journey So Far
 
 <img align="right" src="https://i.pinimg.com/originals/0c/ea/1f/0cea1f9c936d748beac2febd2a63c52c.gif" width="300">
