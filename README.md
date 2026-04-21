@@ -24,18 +24,13 @@
 <p align="left">
    <b>AI Engineer at YOUXEL Technology</b><br>
    <b>1st place AI Challenge Winner</b> at AI Catalyst 24, Nile University.<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Teacher.png" alt="Teacher" width="25" height="25" /> <b>AI & Machine Learning Instructor</b> at MSP Tech Club, Helwan University.<br>
+   <b>AI & Machine Learning Instructor</b> at MSP Tech Club, Helwan University.<br>
    Aspiring <b>competitive programmer</b>, working towards <b>ICPC-level proficiency</b><br>
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Artist Palette" width="25" height="25" /> Passionate about <b>Machine Learning, Deep Learning, Computer Vision and NLP</b>.<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> Reach me at : <b>malakkalaabiadd@gmail.com</b><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" height="25" /> <b>My Portfolio:</b> <a href="https://malook-portfolio-rho.vercel.app/">Website Link</a><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Open to <b>job opportunities</b> → <a href="https://drive.google.com/file/d/1fg4HKUD3Qt1WjRzZDt4ra7ipcPhDdIpy/view?usp=drive_link">My Resume</a>
+   Passionate about <b>Machine Learning, Deep Learning, Computer Vision and NLP</b>.<br>
+   Reach me at : <b>malakkalaabiadd@gmail.com</b><br>
+   <b>My Portfolio:</b> <a href="https://malook-portfolio-rho.vercel.app/">Website Link</a><br>
+   Open to <b>job opportunities</b> → <a href="https://drive.google.com/file/d/1fg4HKUD3Qt1WjRzZDt4ra7ipcPhDdIpy/view?usp=drive_link">My Resume</a>
 </p>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> My Journey So Far
 
 <img align="right" src="https://i.pinimg.com/originals/0c/ea/1f/0cea1f9c936d748beac2febd2a63c52c.gif" width="300">
