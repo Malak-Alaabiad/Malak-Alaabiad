@@ -22,14 +22,14 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px"/>
 
 <p align="left">
-   <b>AI Engineer at YOUXEL Technology</b><br>
-   <b>1st place AI Challenge Winner</b> at AI Catalyst 24, Nile University.<br>
-   <b>AI & Machine Learning Instructor</b> at MSP Tech Club, Helwan University.<br>
-   Aspiring <b>competitive programmer</b>, working towards <b>ICPC-level proficiency</b><br>
-   Passionate about <b>Machine Learning, Deep Learning, Computer Vision and NLP</b>.<br>
-   Reach me at : <b>malakkalaabiadd@gmail.com</b><br>
-   <b>My Portfolio:</b> <a href="https://malook-portfolio-rho.vercel.app/">Website Link</a><br>
-   Open to <b>job opportunities</b> → <a href="https://drive.google.com/file/d/1fg4HKUD3Qt1WjRzZDt4ra7ipcPhDdIpy/view?usp=drive_link">My Resume</a>
+   <b>- AI Engineer at YOUXEL Technology</b><br>
+   <b>- 1st place AI Challenge Winner</b> at AI Catalyst 24, Nile University.<br>
+   <b>- AI & Machine Learning Instructor</b> at MSP Tech Club, Helwan University.<br>
+   - Aspiring <b>competitive programmer</b>, working towards <b>ICPC-level proficiency</b><br>
+   - Passionate about <b>Machine Learning, Deep Learning, Computer Vision and NLP</b>.<br>
+   - Reach me at : <b>malakkalaabiadd@gmail.com</b><br>
+   - <b>My Portfolio:</b> <a href="https://malook-portfolio-rho.vercel.app/">Website Link</a><br>
+   - Open to <b>job opportunities</b> → <a href="https://drive.google.com/file/d/1fg4HKUD3Qt1WjRzZDt4ra7ipcPhDdIpy/view?usp=drive_link">My Resume</a>
 </p>
 
 <div align="center">
