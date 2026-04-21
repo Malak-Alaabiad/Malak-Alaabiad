@@ -5,13 +5,9 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Malak-Alaabiad&label=Profile%20views&color=A020F0&style=for-the-badge" alt="Malak-Alaabiad" />
-  <img src="https://img.shields.io/github/followers/Malak-Alaabiad?label=Followers&style=for-the-badge&color=A020F0" alt="Malak-Alaabiad" />
+  <img src="https://komarev.com/ghpvc/?username=Malak-Alaabiad&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="Malak-Alaabiad" />
+  <img src="https://img.shields.io/github/followers/Malak-Alaabiad?label=Followers&style=for-the-badge&color=58a6ff" alt="Malak-Alaabiad" />
 </p>
-
-<div align="center">
-  <img src="AI.jpg" width="400">
-</div>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
