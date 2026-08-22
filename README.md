@@ -1,284 +1,303 @@
+<a name="top"></a>
+
 <div align="center">
 
-<!-- HERO SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Malak%20Al-Aabiad&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=AI%20Engineer%20at%20YOUXEL%20Technology&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:3d0715,100:7D0D2C&height=210&section=header&text=Malak%20Al-Aabiad&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=Software%20Engineer%20%C2%B7%20AI%20%26%20Multi-Agent%20Systems%20%C2%B7%20YOUXEL%20Technology&descSize=16&descColor=e8b4bf&descAlignY=55&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Malak-Alaabiad&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="Malak-Alaabiad" />
-  <img src="https://img.shields.io/github/followers/Malak-Alaabiad?label=Followers&style=for-the-badge&color=58a6ff" alt="Malak-Alaabiad" />
-  <a href="https://malook-portfolio-rho.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
+<a href="https://malook-portfolio-rho.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=E8455F&center=true&vCenter=true&width=720&lines=Software+Engineer+%40+YOUXEL+Technology;Multi-Agent+Orchestration+%C2%B7+RAG+%C2%B7+LLM+Fine-tuning;Huawei+Cloud+Ambassador+%E2%80%94+Northern+Africa;AI+Instructor+%E2%80%94+100%2B+students+mentored" alt="What I do"/>
+</a>
+
+<p>
+  <a href="https://malook-portfolio-rho.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7D0D2C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/malakal-aabiad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.kaggle.com/malakalaabiad"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="mailto:malakkalaabiadd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Malak-Alaabiad&label=Profile%20views&color=7D0D2C&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Malak-Alaabiad?label=Followers&style=flat-square&color=7D0D2C" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Based%20in-Cairo,%20Egypt-7D0D2C?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/Open%20to-AI%20%2F%20Backend%20roles-7D0D2C?style=flat-square" alt="Open to work"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%"/>
+
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="32"> &nbsp;About me
+
+<img align="right" src="https://raw.githubusercontent.com/Malak-Alaabiad/Malak-Alaabiad/main/AI.jpg" width="235" alt="Illustration of a developer at work"/>
+
+I build **AI-powered software that ships** — multi-agent systems, RAG pipelines, and the
+backend services that carry them into production.
+
+- 🧠 **Software Engineer @ YOUXEL Technology** — scalable AI applications, APIs and workflow automation
+- 🤖 Co-builder of **TORUK AI**, an enterprise multi-agent automation platform
+- ☁️ **Huawei Cloud Ambassador** for Northern Africa
+- 🎓 **AI Head & ML Instructor** — MSP Tech Club, HubX and DotPy Academy · **100+ students mentored**
+- 🏆 **1st place, AI Challenge** — AI Catalyst 24, Nile University
+- 🎤 Tech speaker on AI, big data and the future of investment
+- 🎯 Studying at **FCAI — Cairo University**; sharpening problem-solving on Codeforces
+- 📫 **malakkalaabiadd@gmail.com** · [Portfolio](https://malook-portfolio-rho.vercel.app/) · [Résumé](https://drive.google.com/file/d/1fg4HKUD3Qt1WjRzZDt4ra7ipcPhDdIpy/view?usp=drive_link)
+
+<br clear="right"/>
+
+```yaml
+name:      Malak Al-Aabiad
+role:      Software Engineer @ YOUXEL Technology
+focus:     [multi-agent orchestration, RAG, LLM fine-tuning, backend APIs]
+stack:     [Python, FastAPI, LangChain, TensorFlow, Docker, Azure, Qdrant]
+teaching:  [MSP Tech Club, DotPy Academy, HubX]
+currently: building document-aware automation that enterprises actually run
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%"/>
+
+## <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="42"> &nbsp;Experience & leadership
+
+| Period | Role | Organisation |
+| :-- | :-- | :-- |
+| **Jul 2026 — Present** | Software Engineer | **YOUXEL Technology** |
+| Jul 2025 — Jul 2026 | AI Solution Engineer | **YOUXEL Technology** |
+| **Aug 2025 — Present** | Huawei Cloud Ambassador | **Huawei Cloud, Northern Africa** |
+| **May 2025 — Present** | Academic Support · Practical Training Coordinator | **DotPy Academy** |
+| **Apr 2025 — Present** | Artificial Intelligence Head | **HubX, MTI University** |
+| **Sep 2024 — Present** | AI Head & Machine Learning Instructor | **MSP Tech Club, Helwan University** |
+| Aug & Nov 2025 | Tech Speaker | **AI Catalyst V3.0 · Smart Vision SVS Egypt** |
+
+<details>
+<summary><b>🧩 What each role actually involves</b></summary>
+
+<br>
+
+**Software Engineer — YOUXEL Technology** · *Jul 2026 — Present*
+- Develop and maintain scalable AI-powered applications: backend services, APIs and workflow automation features.
+- Integrate AI models, databases and third-party services; contribute to system design and technical architecture decisions.
+- Review code, write tests, and troubleshoot performance, security and scalability across the platform.
+
+**AI Solution Engineer — YOUXEL Technology** · *Jul 2025 — Jul 2026*
+- Co-built **TORUK AI**, the fifth product in the company portfolio — a multi-agent automation platform for streamlining enterprise workflows.
+- Designed and implemented scalable multi-agent orchestration systems and RAG pipelines, integrating fine-tuned LLMs for document-aware automation.
+- Shaped platform architecture and drove technical decisions on performance, scalability and long-term system evolution.
+
+**Huawei Cloud Ambassador — Northern Africa** · *Aug 2025 — Present*
+- Selected to represent Huawei Cloud across the region, driving awareness of cloud technologies and talent development.
+- Mentor students and early-career professionals, and build a network across cloud and AI.
+
+**Academic Support & Practical Training Coordinator — DotPy Academy** · *May 2025 — Present*
+- Deliver weekly hands-on sessions built on real projects and datasets, preparing all materials including Colab notebooks and slides.
+- Evaluate student performance, provide technical support, and run the academy social channels and campaigns.
+
+**Artificial Intelligence Head — HubX, MTI University** · *Apr 2025 — Present*
+- Lead the AI track end to end: curriculum, sessions and mentoring.
+
+**AI Head & Machine Learning Instructor — MSP Tech Club, Helwan University** · *Sep 2024 — Present*
+- Deliver **8+ sessions a month** on machine learning fundamentals and advanced algorithms, adapting content to a wide range of backgrounds.
+- Track student progress, set expectations and grading criteria, and support students through the track.
+- Recognised by MSP for the work as AI & Machine Learning Instructor and AI Head.
+
+**Tech Speaker** · *Aug & Nov 2025*
+- Spoke at **AI Catalyst V3.0**, Egypt University of Informatics — a second consecutive year on the programme.
+- Panellist on *"The Future of Investment in the Age of AI"* — on how big data moves investment decisions from intuition to insight.
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%"/>
+
+## 🛠️ &nbsp;Tech stack
+
+<div align="center">
+
+**AI & Machine Learning**
+
+<p>
+  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-7D0D2C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-7D0D2C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20Fine--tuning-7D0D2C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-7D0D2C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-7D0D2C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-7D0D2C?style=for-the-badge" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-009688?style=for-the-badge" />
+</p>
+
+**Languages & Data**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+**Backend, Cloud & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,azure,git,github,flask&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%"/>
+
+## 🚀 &nbsp;Selected work
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 TORUK AI
+
+Enterprise **multi-agent automation platform** — orchestration, RAG pipelines and fine-tuned LLMs for document-aware workflows. Fifth product in the YOUXEL portfolio.
+
+`Multi-Agent` `RAG` `FastAPI` `Qdrant`
+
+[Read more →](https://malook-portfolio-rho.vercel.app/)
+
+</td>
+<td width="33%" valign="top">
+
+### 🛣️ Road Damage Detection
+
+**🏆 1st place, AI Challenge — AI Catalyst 24.** Detects and classifies road damage from imagery using **YOLOv8** with transfer learning.
+
+`YOLOv8` `Transfer Learning` `CV`
+
+[Read more →](https://malook-portfolio-rho.vercel.app/)
+
+</td>
+<td width="33%" valign="top">
+
+### 🛒 Product Matching with NLP
+
+Matches near-duplicate marketplace listings using NLP similarity over noisy, real-world product text.
+
+`NLP` `Embeddings` `Python`
+
+[View repo →](https://github.com/Malak-Alaabiad/Product_Matching_In_Marketplace_Using_NLP)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### ❓ AI Question Generator
+
+Generates exam-style questions from source material — built out of the teaching work.
+
+`NLP` `LLMs` `Python`
+
+[View repo →](https://github.com/Malak-Alaabiad/AI_Questions_Generator)
+
+</td>
+<td width="33%" valign="top">
+
+### 😊 Face Emotion Classification
+
+Deep-learning emotion detection on **FER2013** (35,887 labelled images, seven emotions), with the Wider Face dataset for detection.
+
+`CNN` `FER2013` `Keras`
+
+[View repo →](https://github.com/Malak-Alaabiad/Face_Emotion_Classification)
+
+</td>
+<td width="33%" valign="top">
+
+### 🎨 Skin Tone Classification
+
+CNN classifier sorting images into seven skin-tone categories, deployed as an interactive **Flask** app.
+
+`CNN` `Flask` `TensorFlow`
+
+[View repo →](https://github.com/Malak-Alaabiad/Skin_Tone_Classification)
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <a href="https://github.com/Malak-Alaabiad?tab=repositories"><img src="https://img.shields.io/badge/Browse%20all%20repositories-7D0D2C?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/></a>
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> <b> About Me.. </b>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%"/>
 
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px"/>
+## 📚 &nbsp;Teaching & learning resources
 
-<p align="left">
-   <b>- Software Engineer at YOUXEL Technology</b><br>
-   <b>- 1st place AI Challenge Winner</b> at AI Catalyst 24, Nile University.<br>
-   <b>- AI & Machine Learning Instructor</b> at MSP Tech Club, Helwan University.<br>
-   - Aspiring <b>competitive programmer</b>, working towards <b>ICPC-level proficiency</b><br>
-   - Passionate about <b>Machine Learning, Deep Learning, Computer Vision and NLP</b>.<br>
-   - Reach me at : <b>malakkalaabiadd@gmail.com</b><br>
-   - <b>My Portfolio:</b> <a href="https://malook-portfolio-rho.vercel.app/">Website Link</a><br>
-   - Open to <b>job opportunities</b> → <a href="https://drive.google.com/file/d/1fg4HKUD3Qt1WjRzZDt4ra7ipcPhDdIpy/view?usp=drive_link">My Resume</a>
-</p>
+Everything I teach is public — course material, notebooks and workshop code:
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+| Repository | What's inside |
+| :-- | :-- |
+| [DotPy-AI-DataScience-Material](https://github.com/Malak-Alaabiad/DotPy-AI-DataScience-Material) | Practical-training material for the DotPy AI & Data Science track |
+| [MSP-25_AI_Workshop](https://github.com/Malak-Alaabiad/MSP-25_AI_Workshop) · [MSP-24_AI_Workshop](https://github.com/Malak-Alaabiad/MSP-24_AI_Workshop) | MSP Tech Club AI workshops, two seasons of sessions |
+| [Machine-Learning-Algorithms](https://github.com/Malak-Alaabiad/Machine-Learning-Algorithms) · [30-Days-of-ML-Algorithms](https://github.com/Malak-Alaabiad/30-Days-of-ML-Algorithms) | Algorithms implemented and explained from scratch |
+| [Deep-Learning](https://github.com/Malak-Alaabiad/Deep-Learning) · [NLP](https://github.com/Malak-Alaabiad/NLP) · [AI-Notebooks](https://github.com/Malak-Alaabiad/AI-Notebooks) | Notebook collections across deep learning, NLP and applied AI |
 
-## My Journey So Far
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%"/>
 
-<img align="right" src="https://i.pinimg.com/originals/0c/ea/1f/0cea1f9c936d748beac2febd2a63c52c.gif" width="300">
+## 🎓 &nbsp;Education & training
 
-### Education
 - **Faculty of Computers and Artificial Intelligence, Cairo University (FCAI-CU)**
-- Relevant Coursework: Programming-1, Object-Oriented Programming, Mathematics-1, Mathematics-2, Statistics-1, Statistics-2, Discrete Mathematics, Digital Logic Design
-- Building a solid foundation in problem-solving skills through training on Codeforces
+- **Huawei HCIP-AI V2.0 summer training** — Huawei ICT Academy, Cairo University: deep learning, computer vision (detection & segmentation), speech processing and NLP
+- **75-hour Data Science & AI diploma** — DotPy Academy: data preprocessing, classical ML, deep neural networks, transfer learning
 
-###  Specialized Training
-- Completed a summer training in **Deep Learning at Huawei ICT Academy-Cairo University (Huawei HCIP-AI V2.0)** focused on:
-  - Deep Learning (Artificial Neural Networks)
-  - Computer Vision (Feature Extraction, CNN, Object Detection, Object Segmentation)
-  - Speech Processing (Speech Signal Analysis, Feature Extraction, Recognition, Text-to-Speech)
-  - NLP (Text Classification, Text Generation, Machine Translation using RNN)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%"/>
 
-### Data Science Expertise
-- Completed a **75-hour intensive diploma in Data Science and Artificial Intelligence** at DotPy Academy focused on:
-  - Data handling and preprocessing
-  - Various machine learning algorithms
-  - Deep neural networks
-  - Transfer learning
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub stats
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<img width="91%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malak-Alaabiad&theme=github_dark" alt="Profile summary"/>
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Malak-Alaabiad&theme=github_dark" alt="Repos per language"/>
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Malak-Alaabiad&theme=github_dark" alt="Most commit language"/>
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Malak-Alaabiad&theme=github_dark" alt="Stats"/>
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Malak-Alaabiad&theme=github_dark&utcOffset=2" alt="Productive time"/>
+
+<img width="60%" src="https://streak-stats.demolab.com/?user=Malak-Alaabiad&theme=dark&hide_border=true&background=0D1117&border=30363d&ring=E8455F&fire=E8455F&currStreakLabel=E8455F&sideLabels=c9d1d9&dates=8b949e" alt="Contribution streak"/>
+
+<img width="91%" src="https://github-readme-activity-graph.vercel.app/graph?username=Malak-Alaabiad&bg_color=0d1117&color=E8455F&line=7D0D2C&point=ffffff&area=true&hide_border=true" alt="Contribution graph"/>
+
 </div>
 
-## <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="50"> Experience & Leadership
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%"/>
 
-<img align="right" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width="300">
-
-###  AI Engineer at YOUXEL Technology
-
-###  AI Instructor at MSP Tech Club - Helwan University
-*September 2024 - Present*
-- Deliver interactive and engaging sessions on Machine Learning fundamentals and advanced algorithms
-- Conduct over 8 sessions per month, tailoring content to suit diverse learning needs
-- Track and monitor student progress to ensure academic growth
-- Maintain clear communication regarding expectations, assignments, and grading criteria
-- Offer guidance and support to students, fostering a positive learning environment
-- Adapt teaching strategies to accommodate varied learning styles and needs
-
-###  AI Head at MSP Tech Club - Helwan University
-- Lead AI initiatives and projects
-- Mentor team members in AI and machine learning concepts
-- Organize workshops and training sessions
-
-###  Continuous Learning
-- Dedicated to self-improvement and expanding my skills
-- Exploring new programming languages, frameworks, and concepts beyond the classroom
-- Acquiring skills in SQL Server for database management
-- Gaining expertise in Flutter development
+## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="24"> &nbsp;Let's connect
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
 
-## Projects
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Road Damage Detection</h3>
-        <p align="center">
-          <a href="https://github.com/Malak-Alaabiad/Road-Damage-Detection" target="_blank">
-            View on GitHub
-          </a>
-          <p><strong> AI Challenge Winner</strong><br>Developed an AI model for detecting road damage in Egypt using <strong>YOLOv8</strong> with <strong>transfer learning</strong> to improve detection accuracy.</p>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center"> Skin Tone Classification</h3>
-        <p align="center">
-          <a href="https://github.com/Malak-Alaabiad/Skin-Tone-Classification" target="_blank">
-            View on GitHub
-          </a>
-          <p>Developed a skin tone classification model using <strong>CNNs</strong> to categorize images into seven skin tone categories. Deployed with <strong>Flask</strong> for an interactive web application.</p>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Face Emotion Classification</h3>
-        <p align="center">
-          <a href="https://github.com/Malak-Alaabiad/Face-Emotion-Classification" target="_blank">
-            View on GitHub
-          </a>
-          <p>Developed a deep learning model for facial emotion detection using the <strong>FER2013 dataset</strong> with 35,887 labeled images spanning seven emotions. Integrated the <strong>Wider Face dataset</strong> for face detection.</p>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Editopia - AI-Powered Photo Editor</h3>
-        <p align="center">
-          <a href="https://github.com/Malak-Alaabiad/Editopia" target="_blank">
-            View on GitHub
-          </a>
-          <p>Developed a photo editing application with <strong>multiple AI-powered filters</strong> including Grayscale, Black & White, PopArt, Oil Painting, Edge Detection, and more.</p>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<a href="https://www.linkedin.com/in/malakal-aabiad/"><img src="https://img.shields.io/badge/LinkedIn-Malak%20Al--Aabiad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:malakkalaabiadd@gmail.com"><img src="https://img.shields.io/badge/Gmail-malakkalaabiadd-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.kaggle.com/malakalaabiad"><img src="https://img.shields.io/badge/Kaggle-malakalaabiad-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+<a href="https://www.facebook.com/Malak.AlAabiad"><img src="https://img.shields.io/badge/Facebook-Malak%20AlAabiad-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://malook-portfolio-rho.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7D0D2C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" width="520"/>
 
-<h2 style="color: #A020F0; font-weight: bold;">Programming Languages:</h2>
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" alt="Languages"/> 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7D0D2C,55:3d0715,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting&fontSize=22&fontColor=ffffff&fontAlignY=72" width="100%"/>
 
-### Artificial Intelligence & Data Science
+<a href="#top"><img src="https://img.shields.io/badge/back%20to%20top-%E2%86%91-7D0D2C?style=flat-square" alt="Back to top"/></a>
 
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Data%20Handling%20and%20Preprocessing-4CAF50?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Machine%20Learning%20Algorithms-388E3C?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Deep%20Learning-E65100?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Computer%20Vision-2196F3?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/NLP-9C27B0?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /> 
-</p>
-
-### Frameworks & Libraries
-
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" alt=""/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" /> 
-  <img width="12"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" /> 
-</p>
-
-### Tools & Platforms
-
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,clion" alt=""/> 
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Roboflow-000000?style=for-the-badge&logo=roboflow&logoColor=white" /> 
-</p>
-
-### Other Skills
-
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Transfer%20Learning-673AB7?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/YOLOv8-009688?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/OpenCV-5C6BC0?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> 
-</p>
-
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="300">
-</div>
-
-<div align="center">
-  <a href="https://github.com/Malak-Alaabiad">
-    <img src="https://github-readme-stats.vercel.app/api?username=Malak-Alaabiad&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=A020F0&icon_color=A020F0&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Malak-Alaabiad&show_icons=true&locale=en&layout=compact&line_height=20&title_color=A020F0&icon_color=A020F0&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="Malak-Alaabiad"/>
-  </a>
-</div>
-
-<div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="25"><b> My Social Media...</b>
-
-
-<br>
-
-Let's Connect..! </b>
-
-<br>
-<div align='left'>
-  <ul>
-    <li>
-      <a href="https://www.linkedin.com/in/malakal-aabiad/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn: Malak AlAabiad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
-      </a>
-    </li>
-    <li>
-      <a href="https://www.facebook.com/Malak.AlAabiad?mibextid=ZbWKwL" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook: Malak AlAabiad-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-bottom: 5px;" />
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/Malak-Alaabiad" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub: Malak AlAabiad-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
-      </a>
-    </li>
-    <li>
-      <a href="mailto:malakkalaabiadd@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail: Malak AlAabiad-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
-      </a>
-    </li>
-    <li>
-      <a href="https://www.kaggle.com/malakalaabiad" target="_blank">
-        <img src="https://img.shields.io/badge/Kaggle: Malak AlAabiad-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="margin-bottom: 5px;" />
-      </a>
-    </li>
-  </ul>
-</div>
-<br>
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="500"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-<h4 align="center">
-  <a href="https://github.com/Malak-Alaabiad?tab=repositories&color=A020F0" title="Show Repositories">
-    <span style="color: #A020F0;">Show More</span>
-  </a>
-  <p align="right">
-    <a href="#top">
-      <img src="https://img.shields.io/static/v1?label&message=back+to+top&color=58a6ff&style=flat&logo" alt="back to top" />
-    </a>
-  </p>
-</h4>
-<div align="center">
-  <img src="https://i.pinimg.com/originals/d5/b9/3b/d5b93bad7c0a1f974a1db0586f770f05.gif" width="300">
 </div>
