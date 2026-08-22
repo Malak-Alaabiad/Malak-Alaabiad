@@ -163,9 +163,27 @@ currently: building document-aware automation that enterprises actually run
 <p>
   <img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=for-the-badge" alt="Langfuse"/>
   <img src="https://img.shields.io/badge/Ragas-6E4AFF?style=for-the-badge" alt="Ragas"/>
-  <img src="https://img.shields.io/badge/Docling-1F6FEB?style=for-the-badge" alt="Docling"/>
-  <img src="https://img.shields.io/badge/Tesseract%20OCR-4E7C3F?style=for-the-badge" alt="Tesseract OCR"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</p>
+
+**Speech, Voice & Document AI**
+
+<p>
+  <img src="https://img.shields.io/badge/Voice%20Agents-7D0D2C?style=for-the-badge" alt="Voice Agents"/>
+  <img src="https://img.shields.io/badge/Speech--to--Text%20(STT)-7D0D2C?style=for-the-badge" alt="Speech-to-Text"/>
+  <img src="https://img.shields.io/badge/Text--to--Speech%20(TTS)-7D0D2C?style=for-the-badge" alt="Text-to-Speech"/>
+  <img src="https://img.shields.io/badge/Speech%20Processing-7D0D2C?style=for-the-badge" alt="Speech Processing"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/OCR-7D0D2C?style=for-the-badge" alt="OCR"/>
+  <img src="https://img.shields.io/badge/OMR-7D0D2C?style=for-the-badge" alt="OMR"/>
+  <img src="https://img.shields.io/badge/Document%20Parsing-7D0D2C?style=for-the-badge" alt="Document Parsing"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge" alt="Whisper"/>
+  <img src="https://img.shields.io/badge/Azure%20Speech-0078D4?style=for-the-badge" alt="Azure Speech"/>
+  <img src="https://img.shields.io/badge/Tesseract%20OCR-4E7C3F?style=for-the-badge" alt="Tesseract OCR"/>
+  <img src="https://img.shields.io/badge/Docling-1F6FEB?style=for-the-badge" alt="Docling"/>
 </p>
 
 **AI & Machine Learning**
