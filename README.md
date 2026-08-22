@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:3d0715,100:7D0D2C&height=210&section=header&text=Malak%20Al-Aabiad&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=From%20%E2%80%9Cwhat%20if%3F%E2%80%9D%20to%20%E2%80%9Cit%20works.%E2%80%9D%20%E2%80%94%20powered%20by%20AI&descSize=16&descColor=e8b4bf&descAlignY=55&animation=fadeIn" width="100%" alt="Malak Al-Aabiad — Software Engineer"/>
 
 <a href="https://malook-portfolio-rho.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=E8455F&center=true&vCenter=true&width=720&lines=Software+Engineer+%40+YOUXEL+Technology;Multi-Agent+Orchestration+%C2%B7+RAG+%C2%B7+LLM+Fine-tuning;Huawei+Cloud+Ambassador+%E2%80%94+Northern+Africa;AI+Instructor+%E2%80%94+100%2B+students+mentored" alt="What I do"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=E8455F&center=true&vCenter=true&width=720&lines=Software+Engineer+at+YOUXEL+Technology;Multi-Agent+Orchestration+%C2%B7+RAG+%C2%B7+LLM+Fine-tuning;Huawei+Cloud+Ambassador+%E2%80%94+Northern+Africa;AI+Instructor+%E2%80%94+100%2B+students+mentored" alt="What I do"/>
 </a>
 
 <p>
@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=Malak-Alaabiad&label=Profile%20views&color=7D0D2C&style=flat-square" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/Malak-Alaabiad?label=Followers&style=flat-square&color=7D0D2C" alt="Followers"/>
   <img src="https://img.shields.io/badge/Based%20in-Cairo,%20Egypt-7D0D2C?style=flat-square" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open%20to-AI%20%2F%20Backend%20roles-7D0D2C?style=flat-square" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/Open%20to-AI%20and%20Software%20Engineering-7D0D2C?style=flat-square" alt="Open to work"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%" alt=""/>
@@ -33,20 +33,20 @@
 I build **AI-powered software that ships** — multi-agent systems, RAG pipelines, and the
 backend services that carry them into production.
 
-- **Software Engineer @ YOUXEL Technology** — scalable AI applications, APIs and workflow automation
+- **Software Engineer at YOUXEL Technology** — scalable AI applications, APIs and workflow automation
 - Co-builder of **TORUK AI**, an enterprise multi-agent automation platform
 - **Huawei Cloud Ambassador** for Northern Africa
 - **AI Head & ML Instructor** — MSP Tech Club, HubX and DotPy Academy · **100+ students mentored**
 - **1st place, AI Challenge** — AI Catalyst 24, Nile University
 - Tech speaker on AI, big data and the future of investment
-- Studying at **FCAI — Cairo University**; sharpening problem-solving on Codeforces
+- Graduate of **FCAI — Cairo University**; sharpening problem-solving on Codeforces
 - **malakkalaabiadd@gmail.com** · [Portfolio](https://malook-portfolio-rho.vercel.app/) · [Résumé](https://drive.google.com/file/d/1fg4HKUD3Qt1WjRzZDt4ra7ipcPhDdIpy/view?usp=drive_link)
 
 <br clear="right"/>
 
 ```yaml
 name:      Malak Al-Aabiad
-role:      Software Engineer @ YOUXEL Technology
+role:      Software Engineer at YOUXEL Technology
 focus:     [multi-agent orchestration, RAG, LLM fine-tuning, backend APIs]
 stack:     [Python, FastAPI, LangChain, TensorFlow, Docker, Azure, Qdrant]
 teaching:  [MSP Tech Club, DotPy Academy, HubX]
@@ -256,7 +256,7 @@ Everything I teach is public — course material, notebooks and workshop code:
 
 ## Education & training
 
-- **Faculty of Computers and Artificial Intelligence, Cairo University (FCAI-CU)**
+- **Faculty of Computers and Artificial Intelligence, Cairo University (FCAI-CU)** — graduate
 - **Huawei HCIP-AI V2.0 summer training** — Huawei ICT Academy, Cairo University: deep learning, computer vision (detection & segmentation), speech processing and NLP
 - **75-hour Data Science & AI diploma** — DotPy Academy: data preprocessing, classical ML, deep neural networks, transfer learning
 
