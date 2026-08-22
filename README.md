@@ -48,7 +48,7 @@ backend services that carry them into production.
 name:      Malak Al-Aabiad
 role:      Software Engineer at YOUXEL Technology
 focus:     [multi-agent orchestration, RAG, LLM fine-tuning, backend APIs]
-stack:     [Python, FastAPI, LangChain, TensorFlow, Docker, Azure, Qdrant]
+stack:     [Python, FastAPI, LangChain, LangGraph, Docker, AWS, Azure, PostgreSQL, Qdrant]
 teaching:  [MSP Tech Club, DotPy Academy, HubX]
 currently: building document-aware automation that enterprises actually run
 ```
@@ -113,47 +113,66 @@ currently: building document-aware automation that enterprises actually run
 **AI & Machine Learning**
 
 <p>
-  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-7D0D2C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-7D0D2C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20Fine--tuning-7D0D2C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-7D0D2C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-7D0D2C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-7D0D2C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-7D0D2C?style=for-the-badge" alt="Multi-Agent Systems"/>
+  <img src="https://img.shields.io/badge/RAG-7D0D2C?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/LLM%20Fine--tuning-7D0D2C?style=for-the-badge" alt="LLM Fine-tuning"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-7D0D2C?style=for-the-badge" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-7D0D2C?style=for-the-badge" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/NLP-7D0D2C?style=for-the-badge" alt="NLP"/>
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-009688?style=for-the-badge" />
-</p>
-
-**Languages & Data**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css&theme=dark" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="TensorFlow, PyTorch, OpenCV"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/YOLOv8-009688?style=for-the-badge" alt="YOLOv8"/>
 </p>
 
-**Backend, Cloud & Tools**
+**MLOps, LLMOps & Deployment**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,azure,git,github,flask&theme=dark" />
+  <img src="https://img.shields.io/badge/MLOps-7D0D2C?style=for-the-badge" alt="MLOps"/>
+  <img src="https://img.shields.io/badge/LLMOps-7D0D2C?style=for-the-badge" alt="LLMOps"/>
+  <img src="https://img.shields.io/badge/Model%20Deployment-7D0D2C?style=for-the-badge" alt="Model Deployment"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-7D0D2C?style=for-the-badge" alt="CI/CD"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,vercel&theme=dark" alt="Docker, GitHub Actions, Vercel"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
+</p>
+
+**Languages, Web & Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,nodejs,nextjs,react,fastapi,flask,html,css&theme=dark" alt="Python, C++, TypeScript, JavaScript, Node.js, Next.js, React, FastAPI, Flask, HTML, CSS"/>
+</p>
+
+**Data & Storage**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mysql,sqlite&theme=dark" alt="PostgreSQL, Redis, MySQL, SQLite"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
+</p>
+
+**Cloud, Systems & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,ubuntu,bash,git,github&theme=dark" alt="AWS, Azure, Linux, Ubuntu, Bash, Git, GitHub"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/WSL%202-4D4D4D?style=for-the-badge&logo=linux&logoColor=white" alt="WSL 2"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
 </p>
 
 </div>
