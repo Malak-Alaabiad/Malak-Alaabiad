@@ -10,7 +10,7 @@
 
 <p>
   <a href="https://malook-portfolio-rho.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7D0D2C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/malakal-aabiad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/malakal-aabiad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNFY5aDMuNDJ2MS41NmguMDVhMy43NSAzLjc1IDAgMCAxIDMuMzctMS44NWMzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2ek01LjM0IDcuNDNhMi4wNyAyLjA3IDAgMSAxIDAtNC4xNCAyLjA3IDIuMDcgMCAwIDEgMCA0LjE0TTcuMTIgMjAuNDVIMy41NVY5aDMuNTd6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzJ2MjAuNTZDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43MlYxLjcyQzI0IC43NyAyMy4yIDAgMjIuMjIgMCIvPjwvc3ZnPg==" alt="LinkedIn"/></a>
   <a href="https://www.kaggle.com/malakalaabiad"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="mailto:malakkalaabiadd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
@@ -110,23 +110,78 @@ currently: building document-aware automation that enterprises actually run
 
 <div align="center">
 
+**Agentic AI & Automation**
+
+<p>
+  <img src="https://img.shields.io/badge/Agentic%20AI-7D0D2C?style=for-the-badge" alt="Agentic AI"/>
+  <img src="https://img.shields.io/badge/Multi--Agent%20Orchestration-7D0D2C?style=for-the-badge" alt="Multi-Agent Orchestration"/>
+  <img src="https://img.shields.io/badge/Tool%20Calling-7D0D2C?style=for-the-badge" alt="Tool Calling"/>
+  <img src="https://img.shields.io/badge/Agent%20Memory-7D0D2C?style=for-the-badge" alt="Agent Memory"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Workflow%20Automation-7D0D2C?style=for-the-badge" alt="Workflow Automation"/>
+  <img src="https://img.shields.io/badge/Human--in--the--Loop-7D0D2C?style=for-the-badge" alt="Human-in-the-Loop"/>
+  <img src="https://img.shields.io/badge/Document%20Automation-7D0D2C?style=for-the-badge" alt="Document Automation"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/DSPy-0B3D2E?style=for-the-badge" alt="DSPy"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol"/>
+  <img src="https://img.shields.io/badge/A2A%20Protocol-4285F4?style=for-the-badge" alt="A2A Protocol"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Flowise-4B2AAD?style=for-the-badge" alt="Flowise"/>
+  <img src="https://img.shields.io/badge/Langflow-2A2A2A?style=for-the-badge&logo=langflow&logoColor=white" alt="Langflow"/>
+  <img src="https://img.shields.io/badge/Mem0-1A1A1A?style=for-the-badge" alt="Mem0"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
+</p>
+
+**LLMs & Generative AI**
+
+<p>
+  <img src="https://img.shields.io/badge/RAG-7D0D2C?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Advanced%20RAG-7D0D2C?style=for-the-badge" alt="Advanced RAG"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-7D0D2C?style=for-the-badge" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/LLM%20Fine--tuning-7D0D2C?style=for-the-badge" alt="LLM Fine-tuning"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-7D0D2C?style=for-the-badge" alt="LoRA / QLoRA"/>
+  <img src="https://img.shields.io/badge/Embeddings-7D0D2C?style=for-the-badge" alt="Embeddings"/>
+  <img src="https://img.shields.io/badge/Vector%20Search-7D0D2C?style=for-the-badge" alt="Vector Search"/>
+  <img src="https://img.shields.io/badge/Structured%20Outputs-7D0D2C?style=for-the-badge" alt="Structured Outputs"/>
+  <img src="https://img.shields.io/badge/LLM%20Evaluation-7D0D2C?style=for-the-badge" alt="LLM Evaluation"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Transformers-FF9D00?style=for-the-badge" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/Unsloth-00A67E?style=for-the-badge" alt="Unsloth"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=for-the-badge" alt="Langfuse"/>
+  <img src="https://img.shields.io/badge/Ragas-6E4AFF?style=for-the-badge" alt="Ragas"/>
+  <img src="https://img.shields.io/badge/Docling-1F6FEB?style=for-the-badge" alt="Docling"/>
+  <img src="https://img.shields.io/badge/Tesseract%20OCR-4E7C3F?style=for-the-badge" alt="Tesseract OCR"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</p>
+
 **AI & Machine Learning**
 
 <p>
-  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-7D0D2C?style=for-the-badge" alt="Multi-Agent Systems"/>
-  <img src="https://img.shields.io/badge/RAG-7D0D2C?style=for-the-badge" alt="RAG"/>
-  <img src="https://img.shields.io/badge/LLM%20Fine--tuning-7D0D2C?style=for-the-badge" alt="LLM Fine-tuning"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-7D0D2C?style=for-the-badge" alt="Machine Learning"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-7D0D2C?style=for-the-badge" alt="Deep Learning"/>
   <img src="https://img.shields.io/badge/Computer%20Vision-7D0D2C?style=for-the-badge" alt="Computer Vision"/>
   <img src="https://img.shields.io/badge/NLP-7D0D2C?style=for-the-badge" alt="NLP"/>
+  <img src="https://img.shields.io/badge/Transfer%20Learning-7D0D2C?style=for-the-badge" alt="Transfer Learning"/>
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="TensorFlow, PyTorch, OpenCV"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/YOLOv8-009688?style=for-the-badge" alt="YOLOv8"/>
+  <img src="https://img.shields.io/badge/Ultralytics-042AFF?style=for-the-badge" alt="Ultralytics"/>
 </p>
 
 **MLOps, LLMOps & Deployment**
@@ -139,7 +194,7 @@ currently: building document-aware automation that enterprises actually run
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=docker,githubactions,vercel&theme=dark" alt="Docker, GitHub Actions, Vercel"/>
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge" alt="Azure DevOps"/>
 </p>
 
 **Languages, Web & Backend**
@@ -153,12 +208,13 @@ currently: building document-aware automation that enterprises actually run
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,redis,mysql,sqlite&theme=dark" alt="PostgreSQL, Redis, MySQL, SQLite"/>
   <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
+  <img src="https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white" alt="Milvus"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
 </p>
 
@@ -303,7 +359,7 @@ Everything I teach is public — course material, notebooks and workshop code:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/malakal-aabiad/"><img src="https://img.shields.io/badge/LinkedIn-Malak%20Al--Aabiad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/malakal-aabiad/"><img src="https://img.shields.io/badge/LinkedIn-Malak%20Al--Aabiad-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNFY5aDMuNDJ2MS41NmguMDVhMy43NSAzLjc1IDAgMCAxIDMuMzctMS44NWMzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2ek01LjM0IDcuNDNhMi4wNyAyLjA3IDAgMSAxIDAtNC4xNCAyLjA3IDIuMDcgMCAwIDEgMCA0LjE0TTcuMTIgMjAuNDVIMy41NVY5aDMuNTd6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzJ2MjAuNTZDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43MlYxLjcyQzI0IC43NyAyMy4yIDAgMjIuMjIgMCIvPjwvc3ZnPg==" alt="LinkedIn"/></a>
 <a href="mailto:malakkalaabiadd@gmail.com"><img src="https://img.shields.io/badge/Gmail-malakkalaabiadd-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://www.kaggle.com/malakalaabiad"><img src="https://img.shields.io/badge/Kaggle-malakalaabiad-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 <a href="https://www.facebook.com/Malak.AlAabiad"><img src="https://img.shields.io/badge/Facebook-Malak%20AlAabiad-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
