@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:3d0715,100:7D0D2C&height=210&section=header&text=Malak%20Al-Aabiad&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=Software%20Engineer%20%C2%B7%20Multi-Agent%20Systems%20%C2%B7%20RAG%20%C2%B7%20YOUXEL%20Technology&descSize=16&descColor=e8b4bf&descAlignY=55&animation=fadeIn" width="100%" alt="Malak Al-Aabiad — Software Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:3d0715,100:7D0D2C&height=210&section=header&text=Malak%20Al-Aabiad&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=From%20%E2%80%9Cwhat%20if%3F%E2%80%9D%20to%20%E2%80%9Cit%20works.%E2%80%9D%20%E2%80%94%20powered%20by%20AI&descSize=16&descColor=e8b4bf&descAlignY=55&animation=fadeIn" width="100%" alt="Malak Al-Aabiad — Software Engineer"/>
 
 <a href="https://malook-portfolio-rho.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=E8455F&center=true&vCenter=true&width=720&lines=Software+Engineer+%40+YOUXEL+Technology;Multi-Agent+Orchestration+%C2%B7+RAG+%C2%B7+LLM+Fine-tuning;Huawei+Cloud+Ambassador+%E2%80%94+Northern+Africa;AI+Instructor+%E2%80%94+100%2B+students+mentored" alt="What I do"/>
