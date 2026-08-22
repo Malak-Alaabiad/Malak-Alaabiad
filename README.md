@@ -4,12 +4,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:3d0715,100:7D0D2C&height=210&section=header&text=Malak%20Al-Aabiad&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=From%20%E2%80%9Cwhat%20if%3F%E2%80%9D%20to%20%E2%80%9Cit%20works.%E2%80%9D%20%E2%80%94%20powered%20by%20AI&descSize=16&descColor=e8b4bf&descAlignY=55&animation=fadeIn" width="100%" alt="Malak Al-Aabiad — Software Engineer"/>
 
-<a href="https://malook-portfolio-rho.vercel.app/">
+<a href="https://malak-portfolio-bay.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=E8455F&center=true&vCenter=true&width=720&lines=Software+Engineer+at+YOUXEL+Technology;Multi-Agent+Orchestration+%C2%B7+RAG+%C2%B7+LLM+Fine-tuning;Huawei+Cloud+Ambassador+%E2%80%94+Northern+Africa;AI+Instructor+%E2%80%94+100%2B+students+mentored" alt="What I do"/>
 </a>
 
 <p>
-  <a href="https://malook-portfolio-rho.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7D0D2C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://malak-portfolio-bay.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7D0D2C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/malakal-aabiad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNFY5aDMuNDJ2MS41NmguMDVhMy43NSAzLjc1IDAgMCAxIDMuMzctMS44NWMzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2ek01LjM0IDcuNDNhMi4wNyAyLjA3IDAgMSAxIDAtNC4xNCAyLjA3IDIuMDcgMCAwIDEgMCA0LjE0TTcuMTIgMjAuNDVIMy41NVY5aDMuNTd6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzJ2MjAuNTZDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43MlYxLjcyQzI0IC43NyAyMy4yIDAgMjIuMjIgMCIvPjwvc3ZnPg==" alt="LinkedIn"/></a>
   <a href="https://www.kaggle.com/malakalaabiad"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="mailto:malakkalaabiadd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -40,7 +40,7 @@ backend services that carry them into production.
 - **1st place, AI Challenge** — AI Catalyst 24, Nile University
 - Tech speaker on AI, big data and the future of investment
 - Graduate of **FCAI — Cairo University**; sharpening problem-solving on Codeforces
-- **malakkalaabiadd@gmail.com** · [Portfolio](https://malook-portfolio-rho.vercel.app/) · [Résumé](https://drive.google.com/file/d/1fg4HKUD3Qt1WjRzZDt4ra7ipcPhDdIpy/view?usp=drive_link)
+- **malakkalaabiadd@gmail.com** · [Portfolio](https://malak-portfolio-bay.vercel.app/) · [Résumé](https://drive.google.com/file/d/1fg4HKUD3Qt1WjRzZDt4ra7ipcPhDdIpy/view?usp=drive_link)
 
 <br clear="right"/>
 
@@ -50,6 +50,7 @@ role:      Software Engineer at YOUXEL Technology
 focus:     [multi-agent orchestration, RAG, LLM fine-tuning, backend APIs]
 stack:     [Python, FastAPI, LangChain, LangGraph, Docker, AWS, Azure, PostgreSQL, Qdrant]
 teaching:  [MSP Tech Club, DotPy Academy, HubX]
+portfolio: https://malak-portfolio-bay.vercel.app/
 currently: building document-aware automation that enterprises actually run
 ```
 
@@ -265,7 +266,7 @@ Enterprise **multi-agent automation platform** — orchestration, RAG pipelines 
 
 `Multi-Agent` `RAG` `FastAPI` `Qdrant`
 
-[Read more →](https://malook-portfolio-rho.vercel.app/)
+[Read more →](https://malak-portfolio-bay.vercel.app/)
 
 </td>
 <td width="33%" valign="top">
@@ -276,7 +277,7 @@ Enterprise **multi-agent automation platform** — orchestration, RAG pipelines 
 
 `YOLOv8` `Transfer Learning` `CV`
 
-[Read more →](https://malook-portfolio-rho.vercel.app/)
+[Read more →](https://malak-portfolio-bay.vercel.app/)
 
 </td>
 <td width="33%" valign="top">
@@ -381,7 +382,7 @@ Everything I teach is public — course material, notebooks and workshop code:
 <a href="mailto:malakkalaabiadd@gmail.com"><img src="https://img.shields.io/badge/Gmail-malakkalaabiadd-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://www.kaggle.com/malakalaabiad"><img src="https://img.shields.io/badge/Kaggle-malakalaabiad-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 <a href="https://www.facebook.com/Malak.AlAabiad"><img src="https://img.shields.io/badge/Facebook-Malak%20AlAabiad-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://malook-portfolio-rho.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7D0D2C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://malak-portfolio-bay.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7D0D2C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 <br><br>
 
