@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:3d0715,100:7D0D2C&height=210&section=header&text=Malak%20Al-Aabiad&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=Software%20Engineer%20%C2%B7%20AI%20%26%20Multi-Agent%20Systems%20%C2%B7%20YOUXEL%20Technology&descSize=16&descColor=e8b4bf&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:3d0715,100:7D0D2C&height=210&section=header&text=Malak%20Al-Aabiad&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=Software%20Engineer%20%C2%B7%20Multi-Agent%20Systems%20%C2%B7%20RAG%20%C2%B7%20YOUXEL%20Technology&descSize=16&descColor=e8b4bf&descAlignY=55&animation=fadeIn" width="100%" alt="Malak Al-Aabiad — Software Engineer"/>
 
 <a href="https://malook-portfolio-rho.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=E8455F&center=true&vCenter=true&width=720&lines=Software+Engineer+%40+YOUXEL+Technology;Multi-Agent+Orchestration+%C2%B7+RAG+%C2%B7+LLM+Fine-tuning;Huawei+Cloud+Ambassador+%E2%80%94+Northern+Africa;AI+Instructor+%E2%80%94+100%2B+students+mentored" alt="What I do"/>
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Open%20to-AI%20%2F%20Backend%20roles-7D0D2C?style=flat-square" alt="Open to work"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%" alt=""/>
 
 </div>
 
@@ -53,7 +53,7 @@ teaching:  [MSP Tech Club, DotPy Academy, HubX]
 currently: building document-aware automation that enterprises actually run
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%" alt=""/>
 
 ## Experience & leadership
 
@@ -104,7 +104,7 @@ currently: building document-aware automation that enterprises actually run
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%" alt=""/>
 
 ## Tech stack
 
@@ -158,7 +158,7 @@ currently: building document-aware automation that enterprises actually run
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%" alt=""/>
 
 ## Selected work
 
@@ -239,7 +239,7 @@ CNN classifier sorting images into seven skin-tone categories, deployed as an in
   <a href="https://github.com/Malak-Alaabiad?tab=repositories"><img src="https://img.shields.io/badge/Browse%20all%20repositories-7D0D2C?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/></a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%" alt=""/>
 
 ## Teaching & learning resources
 
@@ -252,7 +252,7 @@ Everything I teach is public — course material, notebooks and workshop code:
 | [Machine-Learning-Algorithms](https://github.com/Malak-Alaabiad/Machine-Learning-Algorithms) · [30-Days-of-ML-Algorithms](https://github.com/Malak-Alaabiad/30-Days-of-ML-Algorithms) | Algorithms implemented and explained from scratch |
 | [Deep-Learning](https://github.com/Malak-Alaabiad/Deep-Learning) · [NLP](https://github.com/Malak-Alaabiad/NLP) · [AI-Notebooks](https://github.com/Malak-Alaabiad/AI-Notebooks) | Notebook collections across deep learning, NLP and applied AI |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%" alt=""/>
 
 ## Education & training
 
@@ -260,7 +260,7 @@ Everything I teach is public — course material, notebooks and workshop code:
 - **Huawei HCIP-AI V2.0 summer training** — Huawei ICT Academy, Cairo University: deep learning, computer vision (detection & segmentation), speech processing and NLP
 - **75-hour Data Science & AI diploma** — DotPy Academy: data preprocessing, classical ML, deep neural networks, transfer learning
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%" alt=""/>
 
 ## GitHub stats
 
@@ -274,13 +274,11 @@ Everything I teach is public — course material, notebooks and workshop code:
 <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Malak-Alaabiad&theme=github_dark" alt="Stats"/>
 <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Malak-Alaabiad&theme=github_dark&utcOffset=2" alt="Productive time"/>
 
-<img width="60%" src="https://streak-stats.demolab.com/?user=Malak-Alaabiad&theme=dark&hide_border=true&background=0D1117&border=30363d&ring=E8455F&fire=E8455F&currStreakLabel=E8455F&sideLabels=c9d1d9&dates=8b949e" alt="Contribution streak"/>
-
 <img width="91%" src="https://github-readme-activity-graph.vercel.app/graph?username=Malak-Alaabiad&bg_color=0d1117&color=E8455F&line=7D0D2C&point=ffffff&area=true&hide_border=true" alt="Contribution graph"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%" alt=""/>
 
 ## Let's connect
 
@@ -296,7 +294,7 @@ Everything I teach is public — course material, notebooks and workshop code:
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" width="520"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7D0D2C,55:3d0715,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting&fontSize=22&fontColor=ffffff&fontAlignY=72" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7D0D2C,55:3d0715,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting&fontSize=22&fontColor=ffffff&fontAlignY=72" width="100%" alt="Thanks for visiting"/>
 
 <a href="#top"><img src="https://img.shields.io/badge/back%20to%20top-%E2%86%91-7D0D2C?style=flat-square" alt="Back to top"/></a>
 
