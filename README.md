@@ -26,21 +26,21 @@
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="32"> &nbsp;About me
+## About me
 
 <img align="right" src="https://raw.githubusercontent.com/Malak-Alaabiad/Malak-Alaabiad/main/AI.jpg" width="235" alt="Illustration of a developer at work"/>
 
 I build **AI-powered software that ships** — multi-agent systems, RAG pipelines, and the
 backend services that carry them into production.
 
-- 🧠 **Software Engineer @ YOUXEL Technology** — scalable AI applications, APIs and workflow automation
-- 🤖 Co-builder of **TORUK AI**, an enterprise multi-agent automation platform
-- ☁️ **Huawei Cloud Ambassador** for Northern Africa
-- 🎓 **AI Head & ML Instructor** — MSP Tech Club, HubX and DotPy Academy · **100+ students mentored**
-- 🏆 **1st place, AI Challenge** — AI Catalyst 24, Nile University
-- 🎤 Tech speaker on AI, big data and the future of investment
-- 🎯 Studying at **FCAI — Cairo University**; sharpening problem-solving on Codeforces
-- 📫 **malakkalaabiadd@gmail.com** · [Portfolio](https://malook-portfolio-rho.vercel.app/) · [Résumé](https://drive.google.com/file/d/1fg4HKUD3Qt1WjRzZDt4ra7ipcPhDdIpy/view?usp=drive_link)
+- **Software Engineer @ YOUXEL Technology** — scalable AI applications, APIs and workflow automation
+- Co-builder of **TORUK AI**, an enterprise multi-agent automation platform
+- **Huawei Cloud Ambassador** for Northern Africa
+- **AI Head & ML Instructor** — MSP Tech Club, HubX and DotPy Academy · **100+ students mentored**
+- **1st place, AI Challenge** — AI Catalyst 24, Nile University
+- Tech speaker on AI, big data and the future of investment
+- Studying at **FCAI — Cairo University**; sharpening problem-solving on Codeforces
+- **malakkalaabiadd@gmail.com** · [Portfolio](https://malook-portfolio-rho.vercel.app/) · [Résumé](https://drive.google.com/file/d/1fg4HKUD3Qt1WjRzZDt4ra7ipcPhDdIpy/view?usp=drive_link)
 
 <br clear="right"/>
 
@@ -55,7 +55,7 @@ currently: building document-aware automation that enterprises actually run
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%"/>
 
-## <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="42"> &nbsp;Experience & leadership
+## Experience & leadership
 
 | Period | Role | Organisation |
 | :-- | :-- | :-- |
@@ -68,7 +68,7 @@ currently: building document-aware automation that enterprises actually run
 | Aug & Nov 2025 | Tech Speaker | **AI Catalyst V3.0 · Smart Vision SVS Egypt** |
 
 <details>
-<summary><b>🧩 What each role actually involves</b></summary>
+<summary><b>What each role actually involves</b></summary>
 
 <br>
 
@@ -106,7 +106,7 @@ currently: building document-aware automation that enterprises actually run
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%"/>
 
-## 🛠️ &nbsp;Tech stack
+## Tech stack
 
 <div align="center">
 
@@ -160,13 +160,13 @@ currently: building document-aware automation that enterprises actually run
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%"/>
 
-## 🚀 &nbsp;Selected work
+## Selected work
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🤖 TORUK AI
+### TORUK AI
 
 Enterprise **multi-agent automation platform** — orchestration, RAG pipelines and fine-tuned LLMs for document-aware workflows. Fifth product in the YOUXEL portfolio.
 
@@ -177,9 +177,9 @@ Enterprise **multi-agent automation platform** — orchestration, RAG pipelines 
 </td>
 <td width="33%" valign="top">
 
-### 🛣️ Road Damage Detection
+### Road Damage Detection
 
-**🏆 1st place, AI Challenge — AI Catalyst 24.** Detects and classifies road damage from imagery using **YOLOv8** with transfer learning.
+**1st place, AI Challenge — AI Catalyst 24.** Detects and classifies road damage from imagery using **YOLOv8** with transfer learning.
 
 `YOLOv8` `Transfer Learning` `CV`
 
@@ -188,7 +188,7 @@ Enterprise **multi-agent automation platform** — orchestration, RAG pipelines 
 </td>
 <td width="33%" valign="top">
 
-### 🛒 Product Matching with NLP
+### Product Matching with NLP
 
 Matches near-duplicate marketplace listings using NLP similarity over noisy, real-world product text.
 
@@ -201,7 +201,7 @@ Matches near-duplicate marketplace listings using NLP similarity over noisy, rea
 <tr>
 <td width="33%" valign="top">
 
-### ❓ AI Question Generator
+### AI Question Generator
 
 Generates exam-style questions from source material — built out of the teaching work.
 
@@ -212,7 +212,7 @@ Generates exam-style questions from source material — built out of the teachin
 </td>
 <td width="33%" valign="top">
 
-### 😊 Face Emotion Classification
+### Face Emotion Classification
 
 Deep-learning emotion detection on **FER2013** (35,887 labelled images, seven emotions), with the Wider Face dataset for detection.
 
@@ -223,7 +223,7 @@ Deep-learning emotion detection on **FER2013** (35,887 labelled images, seven em
 </td>
 <td width="33%" valign="top">
 
-### 🎨 Skin Tone Classification
+### Skin Tone Classification
 
 CNN classifier sorting images into seven skin-tone categories, deployed as an interactive **Flask** app.
 
@@ -241,7 +241,7 @@ CNN classifier sorting images into seven skin-tone categories, deployed as an in
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%"/>
 
-## 📚 &nbsp;Teaching & learning resources
+## Teaching & learning resources
 
 Everything I teach is public — course material, notebooks and workshop code:
 
@@ -254,7 +254,7 @@ Everything I teach is public — course material, notebooks and workshop code:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%"/>
 
-## 🎓 &nbsp;Education & training
+## Education & training
 
 - **Faculty of Computers and Artificial Intelligence, Cairo University (FCAI-CU)**
 - **Huawei HCIP-AI V2.0 summer training** — Huawei ICT Academy, Cairo University: deep learning, computer vision (detection & segmentation), speech processing and NLP
@@ -262,7 +262,7 @@ Everything I teach is public — course material, notebooks and workshop code:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%"/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub stats
+## GitHub stats
 
 <div align="center">
 
@@ -282,7 +282,7 @@ Everything I teach is public — course material, notebooks and workshop code:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7D0D2C,100:0d1117&height=3&section=header" width="100%"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="24"> &nbsp;Let's connect
+## Let's connect
 
 <div align="center">
 
